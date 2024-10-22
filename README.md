@@ -4,10 +4,13 @@ Because some cases using Linux OS the program errors due to directory problems t
 But if you use Windows OS, then run the program without changing any syntax.
 
 Then you must change the syntax:
+
 From: 
+
 self.df = pd.read_csv('C:/Users/<username>/heart_rate/05Oct2023at0523pm.csv')
 
 To:
+
 self.df = pd.read_csv('05Oct2023at0523pm.csv')
 
 Or vice versa.
