@@ -1,0 +1,3092 @@
+Seconds,BPM,Presentase_HR_Max,Intensitas_Olahraga
+2,138,69.00,Light
+3,137,68.50,Light
+4,137,68.50,Light
+5,136,68.00,Light
+6,135,67.50,Light
+7,135,67.50,Light
+8,134,67.00,Light
+9,133,66.50,Light
+10,134,67.00,Light
+11,135,67.50,Light
+12,136,68.00,Light
+13,137,68.50,Light
+14,138,69.00,Light
+15,139,69.50,Light
+16,139,69.50,Light
+17,139,69.50,Light
+18,138,69.00,Light
+19,138,69.00,Light
+20,138,69.00,Light
+21,137,68.50,Light
+22,136,68.00,Light
+23,136,68.00,Light
+24,135,67.50,Light
+25,135,67.50,Light
+26,134,67.00,Light
+27,134,67.00,Light
+28,134,67.00,Light
+29,133,66.50,Light
+30,133,66.50,Light
+31,133,66.50,Light
+32,133,66.50,Light
+33,134,67.00,Light
+34,134,67.00,Light
+35,134,67.00,Light
+36,134,67.00,Light
+37,134,67.00,Light
+38,134,67.00,Light
+39,134,67.00,Light
+40,134,67.00,Light
+41,134,67.00,Light
+42,134,67.00,Light
+43,134,67.00,Light
+44,134,67.00,Light
+45,134,67.00,Light
+46,134,67.00,Light
+47,134,67.00,Light
+48,134,67.00,Light
+49,134,67.00,Light
+50,134,67.00,Light
+51,134,67.00,Light
+52,133,66.50,Light
+53,133,66.50,Light
+54,132,66.00,Light
+55,132,66.00,Light
+56,132,66.00,Light
+57,131,65.50,Light
+58,131,65.50,Light
+59,131,65.50,Light
+60,131,65.50,Light
+61,131,65.50,Light
+62,131,65.50,Light
+63,131,65.50,Light
+64,131,65.50,Light
+65,130,65.00,Light
+66,130,65.00,Light
+67,130,65.00,Light
+68,130,65.00,Light
+69,131,65.50,Light
+70,131,65.50,Light
+71,131,65.50,Light
+72,131,65.50,Light
+73,131,65.50,Light
+74,131,65.50,Light
+75,130,65.00,Light
+76,130,65.00,Light
+77,131,65.50,Light
+78,131,65.50,Light
+79,130,65.00,Light
+80,128,64.00,Light
+81,127,63.50,Light
+82,127,63.50,Light
+83,128,64.00,Light
+84,128,64.00,Light
+85,128,64.00,Light
+86,128,64.00,Light
+87,127,63.50,Light
+88,126,63.00,Light
+89,127,63.50,Light
+90,128,64.00,Light
+91,129,64.50,Light
+92,131,65.50,Light
+93,133,66.50,Light
+94,134,67.00,Light
+95,134,67.00,Light
+96,135,67.50,Light
+97,135,67.50,Light
+98,136,68.00,Light
+99,136,68.00,Light
+100,136,68.00,Light
+101,137,68.50,Light
+102,136,68.00,Light
+103,134,67.00,Light
+104,133,66.50,Light
+105,132,66.00,Light
+106,130,65.00,Light
+107,130,65.00,Light
+108,130,65.00,Light
+109,130,65.00,Light
+110,131,65.50,Light
+111,132,66.00,Light
+112,134,67.00,Light
+113,135,67.50,Light
+114,137,68.50,Light
+115,139,69.50,Light
+116,143,71.50,Moderate
+117,145,72.50,Moderate
+118,147,73.50,Moderate
+119,148,74.00,Moderate
+120,149,74.50,Moderate
+121,149,74.50,Moderate
+122,149,74.50,Moderate
+123,150,75.00,Moderate
+124,150,75.00,Moderate
+125,151,75.50,Moderate
+126,151,75.50,Moderate
+127,152,76.00,Moderate
+128,151,75.50,Moderate
+129,150,75.00,Moderate
+130,148,74.00,Moderate
+131,147,73.50,Moderate
+132,146,73.00,Moderate
+133,146,73.00,Moderate
+134,145,72.50,Moderate
+135,145,72.50,Moderate
+136,144,72.00,Moderate
+137,143,71.50,Moderate
+138,141,70.50,Moderate
+139,138,69.00,Light
+140,137,68.50,Light
+141,137,68.50,Light
+142,137,68.50,Light
+143,137,68.50,Light
+144,137,68.50,Light
+145,138,69.00,Light
+146,140,70.00,Moderate
+147,140,70.00,Moderate
+148,141,70.50,Moderate
+149,142,71.00,Moderate
+150,143,71.50,Moderate
+151,145,72.50,Moderate
+152,146,73.00,Moderate
+153,147,73.50,Moderate
+154,147,73.50,Moderate
+155,148,74.00,Moderate
+156,149,74.50,Moderate
+157,149,74.50,Moderate
+158,150,75.00,Moderate
+159,151,75.50,Moderate
+160,151,75.50,Moderate
+161,151,75.50,Moderate
+162,152,76.00,Moderate
+163,154,77.00,Moderate
+164,156,78.00,Moderate
+165,156,78.00,Moderate
+166,157,78.50,Moderate
+167,158,79.00,Moderate
+168,159,79.50,Moderate
+169,159,79.50,Moderate
+170,159,79.50,Moderate
+171,160,80.00,Hard
+172,160,80.00,Hard
+173,161,80.50,Hard
+174,161,80.50,Hard
+175,162,81.00,Hard
+176,161,80.50,Hard
+177,160,80.00,Hard
+178,160,80.00,Hard
+179,160,80.00,Hard
+180,160,80.00,Hard
+181,159,79.50,Moderate
+182,157,78.50,Moderate
+183,156,78.00,Moderate
+184,156,78.00,Moderate
+185,155,77.50,Moderate
+186,154,77.00,Moderate
+187,152,76.00,Moderate
+188,152,76.00,Moderate
+189,151,75.50,Moderate
+190,150,75.00,Moderate
+191,148,74.00,Moderate
+192,147,73.50,Moderate
+193,147,73.50,Moderate
+194,146,73.00,Moderate
+195,145,72.50,Moderate
+196,144,72.00,Moderate
+197,144,72.00,Moderate
+198,143,71.50,Moderate
+199,143,71.50,Moderate
+200,143,71.50,Moderate
+201,142,71.00,Moderate
+202,141,70.50,Moderate
+203,140,70.00,Moderate
+204,140,70.00,Moderate
+205,139,69.50,Light
+206,139,69.50,Light
+207,138,69.00,Light
+208,137,68.50,Light
+209,137,68.50,Light
+210,136,68.00,Light
+211,136,68.00,Light
+212,136,68.00,Light
+213,136,68.00,Light
+214,135,67.50,Light
+215,135,67.50,Light
+216,134,67.00,Light
+217,134,67.00,Light
+218,133,66.50,Light
+219,132,66.00,Light
+220,131,65.50,Light
+221,130,65.00,Light
+222,130,65.00,Light
+223,130,65.00,Light
+224,129,64.50,Light
+225,129,64.50,Light
+226,129,64.50,Light
+227,129,64.50,Light
+228,129,64.50,Light
+229,129,64.50,Light
+230,129,64.50,Light
+231,129,64.50,Light
+232,130,65.00,Light
+233,132,66.00,Light
+234,133,66.50,Light
+235,133,66.50,Light
+236,134,67.00,Light
+237,133,66.50,Light
+238,134,67.00,Light
+239,135,67.50,Light
+240,136,68.00,Light
+241,136,68.00,Light
+242,137,68.50,Light
+243,138,69.00,Light
+244,139,69.50,Light
+245,141,70.50,Moderate
+246,142,71.00,Moderate
+247,146,73.00,Moderate
+248,147,73.50,Moderate
+249,148,74.00,Moderate
+250,149,74.50,Moderate
+251,149,74.50,Moderate
+252,151,75.50,Moderate
+253,151,75.50,Moderate
+254,152,76.00,Moderate
+255,153,76.50,Moderate
+256,154,77.00,Moderate
+257,154,77.00,Moderate
+258,154,77.00,Moderate
+259,153,76.50,Moderate
+260,153,76.50,Moderate
+261,152,76.00,Moderate
+262,152,76.00,Moderate
+263,151,75.50,Moderate
+264,150,75.00,Moderate
+265,150,75.00,Moderate
+266,150,75.00,Moderate
+267,149,74.50,Moderate
+268,149,74.50,Moderate
+269,149,74.50,Moderate
+270,148,74.00,Moderate
+271,148,74.00,Moderate
+272,148,74.00,Moderate
+273,147,73.50,Moderate
+274,147,73.50,Moderate
+275,147,73.50,Moderate
+276,147,73.50,Moderate
+277,147,73.50,Moderate
+278,147,73.50,Moderate
+279,146,73.00,Moderate
+280,146,73.00,Moderate
+281,145,72.50,Moderate
+282,145,72.50,Moderate
+283,146,73.00,Moderate
+284,145,72.50,Moderate
+285,145,72.50,Moderate
+286,144,72.00,Moderate
+287,143,71.50,Moderate
+288,143,71.50,Moderate
+289,143,71.50,Moderate
+290,143,71.50,Moderate
+291,144,72.00,Moderate
+292,144,72.00,Moderate
+293,146,73.00,Moderate
+294,147,73.50,Moderate
+295,148,74.00,Moderate
+296,150,75.00,Moderate
+297,151,75.50,Moderate
+298,152,76.00,Moderate
+299,154,77.00,Moderate
+300,155,77.50,Moderate
+301,155,77.50,Moderate
+302,157,78.50,Moderate
+303,158,79.00,Moderate
+304,159,79.50,Moderate
+305,160,80.00,Hard
+306,162,81.00,Hard
+307,163,81.50,Hard
+308,163,81.50,Hard
+309,164,82.00,Hard
+310,163,81.50,Hard
+311,163,81.50,Hard
+312,162,81.00,Hard
+313,162,81.00,Hard
+314,161,80.50,Hard
+315,161,80.50,Hard
+316,160,80.00,Hard
+317,159,79.50,Moderate
+318,159,79.50,Moderate
+319,157,78.50,Moderate
+320,156,78.00,Moderate
+321,155,77.50,Moderate
+322,155,77.50,Moderate
+323,154,77.00,Moderate
+324,154,77.00,Moderate
+325,154,77.00,Moderate
+326,154,77.00,Moderate
+327,153,76.50,Moderate
+328,153,76.50,Moderate
+329,153,76.50,Moderate
+330,153,76.50,Moderate
+331,152,76.00,Moderate
+332,151,75.50,Moderate
+333,150,75.00,Moderate
+334,150,75.00,Moderate
+335,150,75.00,Moderate
+336,150,75.00,Moderate
+337,149,74.50,Moderate
+338,148,74.00,Moderate
+339,147,73.50,Moderate
+340,147,73.50,Moderate
+341,146,73.00,Moderate
+342,145,72.50,Moderate
+343,145,72.50,Moderate
+344,145,72.50,Moderate
+345,145,72.50,Moderate
+346,145,72.50,Moderate
+347,145,72.50,Moderate
+348,145,72.50,Moderate
+349,145,72.50,Moderate
+350,145,72.50,Moderate
+351,146,73.00,Moderate
+352,146,73.00,Moderate
+353,147,73.50,Moderate
+354,148,74.00,Moderate
+355,151,75.50,Moderate
+356,152,76.00,Moderate
+357,154,77.00,Moderate
+358,155,77.50,Moderate
+359,156,78.00,Moderate
+360,158,79.00,Moderate
+361,158,79.00,Moderate
+362,158,79.00,Moderate
+363,158,79.00,Moderate
+364,157,78.50,Moderate
+365,157,78.50,Moderate
+366,156,78.00,Moderate
+367,154,77.00,Moderate
+368,154,77.00,Moderate
+369,153,76.50,Moderate
+370,153,76.50,Moderate
+371,152,76.00,Moderate
+372,152,76.00,Moderate
+373,152,76.00,Moderate
+374,152,76.00,Moderate
+375,152,76.00,Moderate
+376,152,76.00,Moderate
+377,151,75.50,Moderate
+378,151,75.50,Moderate
+379,150,75.00,Moderate
+380,149,74.50,Moderate
+381,148,74.00,Moderate
+382,147,73.50,Moderate
+383,147,73.50,Moderate
+384,146,73.00,Moderate
+385,145,72.50,Moderate
+386,145,72.50,Moderate
+387,145,72.50,Moderate
+388,144,72.00,Moderate
+389,144,72.00,Moderate
+390,144,72.00,Moderate
+391,143,71.50,Moderate
+392,143,71.50,Moderate
+393,143,71.50,Moderate
+394,143,71.50,Moderate
+395,143,71.50,Moderate
+396,143,71.50,Moderate
+397,143,71.50,Moderate
+398,143,71.50,Moderate
+399,143,71.50,Moderate
+400,143,71.50,Moderate
+401,143,71.50,Moderate
+402,142,71.00,Moderate
+403,141,70.50,Moderate
+404,141,70.50,Moderate
+405,141,70.50,Moderate
+406,141,70.50,Moderate
+407,140,70.00,Moderate
+408,140,70.00,Moderate
+409,140,70.00,Moderate
+410,140,70.00,Moderate
+411,139,69.50,Light
+412,139,69.50,Light
+413,138,69.00,Light
+414,138,69.00,Light
+415,137,68.50,Light
+416,137,68.50,Light
+417,136,68.00,Light
+418,136,68.00,Light
+419,136,68.00,Light
+420,135,67.50,Light
+421,135,67.50,Light
+422,135,67.50,Light
+423,135,67.50,Light
+424,135,67.50,Light
+425,135,67.50,Light
+426,136,68.00,Light
+427,134,67.00,Light
+428,133,66.50,Light
+429,133,66.50,Light
+430,133,66.50,Light
+431,134,67.00,Light
+432,134,67.00,Light
+433,134,67.00,Light
+434,134,67.00,Light
+435,135,67.50,Light
+436,134,67.00,Light
+437,134,67.00,Light
+438,133,66.50,Light
+439,133,66.50,Light
+440,133,66.50,Light
+441,133,66.50,Light
+442,132,66.00,Light
+443,132,66.00,Light
+444,132,66.00,Light
+445,132,66.00,Light
+446,132,66.00,Light
+447,131,65.50,Light
+448,131,65.50,Light
+449,130,65.00,Light
+450,130,65.00,Light
+451,130,65.00,Light
+452,130,65.00,Light
+453,131,65.50,Light
+454,131,65.50,Light
+455,130,65.00,Light
+456,130,65.00,Light
+457,130,65.00,Light
+458,130,65.00,Light
+459,129,64.50,Light
+460,129,64.50,Light
+461,128,64.00,Light
+462,128,64.00,Light
+463,128,64.00,Light
+464,128,64.00,Light
+465,128,64.00,Light
+466,128,64.00,Light
+467,129,64.50,Light
+468,130,65.00,Light
+469,131,65.50,Light
+470,131,65.50,Light
+471,133,66.50,Light
+472,133,66.50,Light
+473,134,67.00,Light
+474,134,67.00,Light
+475,135,67.50,Light
+476,136,68.00,Light
+477,136,68.00,Light
+478,137,68.50,Light
+479,137,68.50,Light
+480,139,69.50,Light
+481,140,70.00,Moderate
+482,140,70.00,Moderate
+483,140,70.00,Moderate
+484,141,70.50,Moderate
+485,141,70.50,Moderate
+486,141,70.50,Moderate
+487,141,70.50,Moderate
+488,140,70.00,Moderate
+489,139,69.50,Light
+490,139,69.50,Light
+491,138,69.00,Light
+492,137,68.50,Light
+493,136,68.00,Light
+494,136,68.00,Light
+495,134,67.00,Light
+496,133,66.50,Light
+497,132,66.00,Light
+498,132,66.00,Light
+499,132,66.00,Light
+500,132,66.00,Light
+501,133,66.50,Light
+502,133,66.50,Light
+503,135,67.50,Light
+504,135,67.50,Light
+505,136,68.00,Light
+506,136,68.00,Light
+507,137,68.50,Light
+508,138,69.00,Light
+509,138,69.00,Light
+510,140,70.00,Moderate
+511,143,71.50,Moderate
+512,144,72.00,Moderate
+513,145,72.50,Moderate
+514,146,73.00,Moderate
+515,146,73.00,Moderate
+516,149,74.50,Moderate
+517,150,75.00,Moderate
+518,150,75.00,Moderate
+519,151,75.50,Moderate
+520,153,76.50,Moderate
+521,153,76.50,Moderate
+522,154,77.00,Moderate
+523,155,77.50,Moderate
+524,154,77.00,Moderate
+525,154,77.00,Moderate
+526,153,76.50,Moderate
+527,153,76.50,Moderate
+528,152,76.00,Moderate
+529,152,76.00,Moderate
+530,152,76.00,Moderate
+531,151,75.50,Moderate
+532,150,75.00,Moderate
+533,149,74.50,Moderate
+534,149,74.50,Moderate
+535,148,74.00,Moderate
+536,148,74.00,Moderate
+537,148,74.00,Moderate
+538,148,74.00,Moderate
+539,148,74.00,Moderate
+540,148,74.00,Moderate
+541,148,74.00,Moderate
+542,148,74.00,Moderate
+543,148,74.00,Moderate
+544,148,74.00,Moderate
+545,148,74.00,Moderate
+546,147,73.50,Moderate
+547,147,73.50,Moderate
+548,147,73.50,Moderate
+549,146,73.00,Moderate
+550,145,72.50,Moderate
+551,145,72.50,Moderate
+552,145,72.50,Moderate
+553,145,72.50,Moderate
+554,145,72.50,Moderate
+555,147,73.50,Moderate
+556,148,74.00,Moderate
+557,150,75.00,Moderate
+558,150,75.00,Moderate
+559,153,76.50,Moderate
+560,154,77.00,Moderate
+561,155,77.50,Moderate
+562,155,77.50,Moderate
+563,157,78.50,Moderate
+564,157,78.50,Moderate
+565,159,79.50,Moderate
+566,159,79.50,Moderate
+567,159,79.50,Moderate
+568,158,79.00,Moderate
+569,158,79.00,Moderate
+570,157,78.50,Moderate
+571,155,77.50,Moderate
+572,154,77.00,Moderate
+573,154,77.00,Moderate
+574,153,76.50,Moderate
+575,152,76.00,Moderate
+576,152,76.00,Moderate
+577,151,75.50,Moderate
+578,151,75.50,Moderate
+579,151,75.50,Moderate
+580,150,75.00,Moderate
+581,150,75.00,Moderate
+582,149,74.50,Moderate
+583,149,74.50,Moderate
+584,149,74.50,Moderate
+585,149,74.50,Moderate
+586,149,74.50,Moderate
+587,150,75.00,Moderate
+588,149,74.50,Moderate
+589,149,74.50,Moderate
+590,149,74.50,Moderate
+591,148,74.00,Moderate
+592,147,73.50,Moderate
+593,147,73.50,Moderate
+594,147,73.50,Moderate
+595,147,73.50,Moderate
+596,147,73.50,Moderate
+597,147,73.50,Moderate
+598,148,74.00,Moderate
+599,148,74.00,Moderate
+600,149,74.50,Moderate
+601,150,75.00,Moderate
+602,150,75.00,Moderate
+603,151,75.50,Moderate
+604,152,76.00,Moderate
+605,153,76.50,Moderate
+606,153,76.50,Moderate
+607,155,77.50,Moderate
+608,155,77.50,Moderate
+609,156,78.00,Moderate
+610,156,78.00,Moderate
+611,156,78.00,Moderate
+612,157,78.50,Moderate
+613,157,78.50,Moderate
+614,157,78.50,Moderate
+615,157,78.50,Moderate
+616,158,79.00,Moderate
+617,159,79.50,Moderate
+618,159,79.50,Moderate
+619,160,80.00,Hard
+620,161,80.50,Hard
+621,161,80.50,Hard
+622,161,80.50,Hard
+623,161,80.50,Hard
+624,162,81.00,Hard
+625,162,81.00,Hard
+626,162,81.00,Hard
+627,162,81.00,Hard
+628,163,81.50,Hard
+629,163,81.50,Hard
+630,162,81.00,Hard
+631,161,80.50,Hard
+632,160,80.00,Hard
+633,159,79.50,Moderate
+634,159,79.50,Moderate
+635,158,79.00,Moderate
+636,158,79.00,Moderate
+637,157,78.50,Moderate
+638,157,78.50,Moderate
+639,157,78.50,Moderate
+640,156,78.00,Moderate
+641,155,77.50,Moderate
+642,155,77.50,Moderate
+643,154,77.00,Moderate
+644,153,76.50,Moderate
+645,152,76.00,Moderate
+646,152,76.00,Moderate
+647,152,76.00,Moderate
+648,150,75.00,Moderate
+649,148,74.00,Moderate
+650,148,74.00,Moderate
+651,148,74.00,Moderate
+652,147,73.50,Moderate
+653,147,73.50,Moderate
+654,147,73.50,Moderate
+655,147,73.50,Moderate
+656,147,73.50,Moderate
+657,147,73.50,Moderate
+658,147,73.50,Moderate
+659,148,74.00,Moderate
+660,148,74.00,Moderate
+661,148,74.00,Moderate
+662,148,74.00,Moderate
+663,147,73.50,Moderate
+664,147,73.50,Moderate
+665,146,73.00,Moderate
+666,145,72.50,Moderate
+667,144,72.00,Moderate
+668,143,71.50,Moderate
+669,143,71.50,Moderate
+670,144,72.00,Moderate
+671,144,72.00,Moderate
+672,144,72.00,Moderate
+673,142,71.00,Moderate
+674,142,71.00,Moderate
+675,138,69.00,Light
+676,135,67.50,Light
+677,131,65.50,Light
+678,129,64.50,Light
+679,127,63.50,Light
+680,125,62.50,Light
+681,125,62.50,Light
+682,122,61.00,Light
+683,121,60.50,Light
+684,121,60.50,Light
+685,120,60.00,Light
+686,120,60.00,Light
+687,119,59.50,Very Light
+688,119,59.50,Very Light
+689,119,59.50,Very Light
+690,117,58.50,Very Light
+691,117,58.50,Very Light
+692,117,58.50,Very Light
+693,118,59.00,Very Light
+694,118,59.00,Very Light
+695,117,58.50,Very Light
+696,117,58.50,Very Light
+697,118,59.00,Very Light
+698,118,59.00,Very Light
+699,117,58.50,Very Light
+700,117,58.50,Very Light
+701,117,58.50,Very Light
+702,117,58.50,Very Light
+703,115,57.50,Very Light
+704,115,57.50,Very Light
+705,115,57.50,Very Light
+706,117,58.50,Very Light
+707,118,59.00,Very Light
+708,119,59.50,Very Light
+709,120,60.00,Light
+710,120,60.00,Light
+711,122,61.00,Light
+712,124,62.00,Light
+713,126,63.00,Light
+714,128,64.00,Light
+715,130,65.00,Light
+716,132,66.00,Light
+717,133,66.50,Light
+718,134,67.00,Light
+719,134,67.00,Light
+720,134,67.00,Light
+721,135,67.50,Light
+722,135,67.50,Light
+723,135,67.50,Light
+724,135,67.50,Light
+725,134,67.00,Light
+726,134,67.00,Light
+727,133,66.50,Light
+728,133,66.50,Light
+729,133,66.50,Light
+730,134,67.00,Light
+731,135,67.50,Light
+732,135,67.50,Light
+733,135,67.50,Light
+734,137,68.50,Light
+735,139,69.50,Light
+736,140,70.00,Moderate
+737,142,71.00,Moderate
+738,144,72.00,Moderate
+739,147,73.50,Moderate
+740,147,73.50,Moderate
+741,151,75.50,Moderate
+742,152,76.00,Moderate
+743,154,77.00,Moderate
+744,154,77.00,Moderate
+745,154,77.00,Moderate
+746,154,77.00,Moderate
+747,154,77.00,Moderate
+748,154,77.00,Moderate
+749,154,77.00,Moderate
+750,154,77.00,Moderate
+751,154,77.00,Moderate
+752,154,77.00,Moderate
+753,155,77.50,Moderate
+754,155,77.50,Moderate
+755,157,78.50,Moderate
+756,158,79.00,Moderate
+757,159,79.50,Moderate
+758,159,79.50,Moderate
+759,161,80.50,Hard
+760,162,81.00,Hard
+761,163,81.50,Hard
+762,164,82.00,Hard
+763,166,83.00,Hard
+764,166,83.00,Hard
+765,166,83.00,Hard
+766,166,83.00,Hard
+767,165,82.50,Hard
+768,165,82.50,Hard
+769,165,82.50,Hard
+770,165,82.50,Hard
+771,164,82.00,Hard
+772,163,81.50,Hard
+773,163,81.50,Hard
+774,162,81.00,Hard
+775,160,80.00,Hard
+776,160,80.00,Hard
+777,160,80.00,Hard
+778,158,79.00,Moderate
+779,158,79.00,Moderate
+780,158,79.00,Moderate
+781,158,79.00,Moderate
+782,157,78.50,Moderate
+783,156,78.00,Moderate
+784,155,77.50,Moderate
+785,155,77.50,Moderate
+786,155,77.50,Moderate
+787,157,78.50,Moderate
+788,157,78.50,Moderate
+789,157,78.50,Moderate
+790,157,78.50,Moderate
+791,158,79.00,Moderate
+792,158,79.00,Moderate
+793,159,79.50,Moderate
+794,159,79.50,Moderate
+795,159,79.50,Moderate
+796,160,80.00,Hard
+797,160,80.00,Hard
+798,161,80.50,Hard
+799,162,81.00,Hard
+800,162,81.00,Hard
+801,162,81.00,Hard
+802,162,81.00,Hard
+803,163,81.50,Hard
+804,163,81.50,Hard
+805,163,81.50,Hard
+806,163,81.50,Hard
+807,163,81.50,Hard
+808,163,81.50,Hard
+809,163,81.50,Hard
+810,163,81.50,Hard
+811,163,81.50,Hard
+812,163,81.50,Hard
+813,163,81.50,Hard
+814,163,81.50,Hard
+815,163,81.50,Hard
+816,164,82.00,Hard
+817,163,81.50,Hard
+818,163,81.50,Hard
+819,164,82.00,Hard
+820,164,82.00,Hard
+821,165,82.50,Hard
+822,164,82.00,Hard
+823,165,82.50,Hard
+824,165,82.50,Hard
+825,165,82.50,Hard
+826,165,82.50,Hard
+827,164,82.00,Hard
+828,164,82.00,Hard
+829,163,81.50,Hard
+830,163,81.50,Hard
+831,163,81.50,Hard
+832,163,81.50,Hard
+833,163,81.50,Hard
+834,163,81.50,Hard
+835,160,80.00,Hard
+836,158,79.00,Moderate
+837,156,78.00,Moderate
+838,155,77.50,Moderate
+839,154,77.00,Moderate
+840,152,76.00,Moderate
+841,151,75.50,Moderate
+842,151,75.50,Moderate
+843,150,75.00,Moderate
+844,149,74.50,Moderate
+845,148,74.00,Moderate
+846,147,73.50,Moderate
+847,147,73.50,Moderate
+848,147,73.50,Moderate
+849,146,73.00,Moderate
+850,145,72.50,Moderate
+851,145,72.50,Moderate
+852,144,72.00,Moderate
+853,143,71.50,Moderate
+854,143,71.50,Moderate
+855,142,71.00,Moderate
+856,141,70.50,Moderate
+857,140,70.00,Moderate
+858,138,69.00,Light
+859,136,68.00,Light
+860,135,67.50,Light
+861,134,67.00,Light
+862,133,66.50,Light
+863,132,66.00,Light
+864,132,66.00,Light
+865,132,66.00,Light
+866,132,66.00,Light
+867,133,66.50,Light
+868,133,66.50,Light
+869,133,66.50,Light
+870,132,66.00,Light
+871,133,66.50,Light
+872,133,66.50,Light
+873,133,66.50,Light
+874,133,66.50,Light
+875,133,66.50,Light
+876,132,66.00,Light
+877,130,65.00,Light
+878,130,65.00,Light
+879,130,65.00,Light
+880,129,64.50,Light
+881,128,64.00,Light
+882,128,64.00,Light
+883,128,64.00,Light
+884,127,63.50,Light
+885,126,63.00,Light
+886,124,62.00,Light
+887,123,61.50,Light
+888,123,61.50,Light
+889,123,61.50,Light
+890,123,61.50,Light
+891,124,62.00,Light
+892,124,62.00,Light
+893,125,62.50,Light
+894,124,62.00,Light
+895,122,61.00,Light
+896,120,60.00,Light
+897,119,59.50,Very Light
+898,119,59.50,Very Light
+899,119,59.50,Very Light
+900,120,60.00,Light
+901,121,60.50,Light
+902,121,60.50,Light
+903,121,60.50,Light
+904,122,61.00,Light
+905,121,60.50,Light
+906,121,60.50,Light
+907,121,60.50,Light
+908,121,60.50,Light
+909,120,60.00,Light
+910,120,60.00,Light
+911,120,60.00,Light
+912,118,59.00,Very Light
+913,117,58.50,Very Light
+914,117,58.50,Very Light
+915,116,58.00,Very Light
+916,116,58.00,Very Light
+917,116,58.00,Very Light
+918,117,58.50,Very Light
+919,118,59.00,Very Light
+920,118,59.00,Very Light
+921,117,58.50,Very Light
+922,116,58.00,Very Light
+923,116,58.00,Very Light
+924,116,58.00,Very Light
+925,115,57.50,Very Light
+926,115,57.50,Very Light
+927,114,57.00,Very Light
+928,113,56.50,Very Light
+929,112,56.00,Very Light
+930,112,56.00,Very Light
+931,114,57.00,Very Light
+932,113,56.50,Very Light
+933,110,55.00,Very Light
+934,109,54.50,Very Light
+935,108,54.00,Very Light
+936,107,53.50,Very Light
+937,107,53.50,Very Light
+938,107,53.50,Very Light
+939,107,53.50,Very Light
+940,106,53.00,Very Light
+941,106,53.00,Very Light
+942,106,53.00,Very Light
+943,107,53.50,Very Light
+944,107,53.50,Very Light
+945,107,53.50,Very Light
+946,108,54.00,Very Light
+947,108,54.00,Very Light
+948,109,54.50,Very Light
+949,110,55.00,Very Light
+950,110,55.00,Very Light
+951,110,55.00,Very Light
+952,110,55.00,Very Light
+953,111,55.50,Very Light
+954,111,55.50,Very Light
+955,113,56.50,Very Light
+956,113,56.50,Very Light
+957,113,56.50,Very Light
+958,113,56.50,Very Light
+959,113,56.50,Very Light
+960,112,56.00,Very Light
+961,111,55.50,Very Light
+962,111,55.50,Very Light
+963,110,55.00,Very Light
+964,111,55.50,Very Light
+965,112,56.00,Very Light
+966,114,57.00,Very Light
+967,117,58.50,Very Light
+968,119,59.50,Very Light
+969,121,60.50,Light
+970,124,62.00,Light
+971,126,63.00,Light
+972,127,63.50,Light
+973,129,64.50,Light
+974,129,64.50,Light
+975,129,64.50,Light
+976,130,65.00,Light
+977,130,65.00,Light
+978,130,65.00,Light
+979,130,65.00,Light
+980,129,64.50,Light
+981,130,65.00,Light
+982,131,65.50,Light
+983,133,66.50,Light
+984,134,67.00,Light
+985,136,68.00,Light
+986,136,68.00,Light
+987,138,69.00,Light
+988,140,70.00,Moderate
+989,142,71.00,Moderate
+990,144,72.00,Moderate
+991,148,74.00,Moderate
+992,149,74.50,Moderate
+993,150,75.00,Moderate
+994,151,75.50,Moderate
+995,152,76.00,Moderate
+996,152,76.00,Moderate
+997,153,76.50,Moderate
+998,153,76.50,Moderate
+999,153,76.50,Moderate
+1000,152,76.00,Moderate
+1001,151,75.50,Moderate
+1002,151,75.50,Moderate
+1003,149,74.50,Moderate
+1004,148,74.00,Moderate
+1005,148,74.00,Moderate
+1006,146,73.00,Moderate
+1007,145,72.50,Moderate
+1008,143,71.50,Moderate
+1009,142,71.00,Moderate
+1010,142,71.00,Moderate
+1011,141,70.50,Moderate
+1012,140,70.00,Moderate
+1013,138,69.00,Light
+1014,137,68.50,Light
+1015,135,67.50,Light
+1016,134,67.00,Light
+1017,133,66.50,Light
+1018,133,66.50,Light
+1019,133,66.50,Light
+1020,133,66.50,Light
+1021,135,67.50,Light
+1022,135,67.50,Light
+1023,135,67.50,Light
+1024,136,68.00,Light
+1025,137,68.50,Light
+1026,137,68.50,Light
+1027,137,68.50,Light
+1028,138,69.00,Light
+1029,138,69.00,Light
+1030,138,69.00,Light
+1031,139,69.50,Light
+1032,139,69.50,Light
+1033,139,69.50,Light
+1034,139,69.50,Light
+1035,139,69.50,Light
+1036,140,70.00,Moderate
+1037,140,70.00,Moderate
+1038,140,70.00,Moderate
+1039,140,70.00,Moderate
+1040,140,70.00,Moderate
+1041,140,70.00,Moderate
+1042,140,70.00,Moderate
+1043,140,70.00,Moderate
+1044,141,70.50,Moderate
+1045,141,70.50,Moderate
+1046,141,70.50,Moderate
+1047,141,70.50,Moderate
+1048,141,70.50,Moderate
+1049,141,70.50,Moderate
+1050,141,70.50,Moderate
+1051,141,70.50,Moderate
+1052,141,70.50,Moderate
+1053,142,71.00,Moderate
+1054,143,71.50,Moderate
+1055,144,72.00,Moderate
+1056,145,72.50,Moderate
+1057,145,72.50,Moderate
+1058,147,73.50,Moderate
+1059,149,74.50,Moderate
+1060,150,75.00,Moderate
+1061,151,75.50,Moderate
+1062,152,76.00,Moderate
+1063,152,76.00,Moderate
+1064,152,76.00,Moderate
+1065,152,76.00,Moderate
+1066,151,75.50,Moderate
+1067,151,75.50,Moderate
+1068,150,75.00,Moderate
+1069,149,74.50,Moderate
+1070,149,74.50,Moderate
+1071,148,74.00,Moderate
+1072,147,73.50,Moderate
+1073,145,72.50,Moderate
+1074,145,72.50,Moderate
+1075,142,71.00,Moderate
+1076,141,70.50,Moderate
+1077,141,70.50,Moderate
+1078,141,70.50,Moderate
+1079,141,70.50,Moderate
+1080,141,70.50,Moderate
+1081,142,71.00,Moderate
+1082,142,71.00,Moderate
+1083,142,71.00,Moderate
+1084,142,71.00,Moderate
+1085,142,71.00,Moderate
+1086,142,71.00,Moderate
+1087,143,71.50,Moderate
+1088,144,72.00,Moderate
+1089,144,72.00,Moderate
+1090,145,72.50,Moderate
+1091,145,72.50,Moderate
+1092,146,73.00,Moderate
+1093,146,73.00,Moderate
+1094,146,73.00,Moderate
+1095,147,73.50,Moderate
+1096,147,73.50,Moderate
+1097,147,73.50,Moderate
+1098,148,74.00,Moderate
+1099,148,74.00,Moderate
+1100,148,74.00,Moderate
+1101,148,74.00,Moderate
+1102,148,74.00,Moderate
+1103,148,74.00,Moderate
+1104,148,74.00,Moderate
+1105,148,74.00,Moderate
+1106,148,74.00,Moderate
+1107,148,74.00,Moderate
+1108,148,74.00,Moderate
+1109,148,74.00,Moderate
+1110,148,74.00,Moderate
+1111,148,74.00,Moderate
+1112,148,74.00,Moderate
+1113,147,73.50,Moderate
+1114,146,73.00,Moderate
+1115,145,72.50,Moderate
+1116,145,72.50,Moderate
+1117,143,71.50,Moderate
+1118,143,71.50,Moderate
+1119,141,70.50,Moderate
+1120,141,70.50,Moderate
+1121,140,70.00,Moderate
+1122,138,69.00,Light
+1123,138,69.00,Light
+1124,137,68.50,Light
+1125,136,68.00,Light
+1126,135,67.50,Light
+1127,134,67.00,Light
+1128,134,67.00,Light
+1129,134,67.00,Light
+1130,134,67.00,Light
+1131,134,67.00,Light
+1132,134,67.00,Light
+1133,134,67.00,Light
+1134,135,67.50,Light
+1135,135,67.50,Light
+1136,135,67.50,Light
+1137,135,67.50,Light
+1138,135,67.50,Light
+1139,135,67.50,Light
+1140,135,67.50,Light
+1141,134,67.00,Light
+1142,134,67.00,Light
+1143,132,66.00,Light
+1144,130,65.00,Light
+1145,127,63.50,Light
+1146,124,62.00,Light
+1147,120,60.00,Light
+1148,118,59.00,Very Light
+1149,117,58.50,Very Light
+1150,116,58.00,Very Light
+1151,115,57.50,Very Light
+1152,114,57.00,Very Light
+1153,114,57.00,Very Light
+1154,114,57.00,Very Light
+1155,114,57.00,Very Light
+1156,114,57.00,Very Light
+1157,114,57.00,Very Light
+1158,115,57.50,Very Light
+1159,117,58.50,Very Light
+1160,119,59.50,Very Light
+1161,121,60.50,Light
+1162,121,60.50,Light
+1163,125,62.50,Light
+1164,125,62.50,Light
+1165,129,64.50,Light
+1166,129,64.50,Light
+1167,132,66.00,Light
+1168,134,67.00,Light
+1169,135,67.50,Light
+1170,137,68.50,Light
+1171,140,70.00,Moderate
+1172,142,71.00,Moderate
+1173,143,71.50,Moderate
+1174,145,72.50,Moderate
+1175,146,73.00,Moderate
+1176,148,74.00,Moderate
+1177,149,74.50,Moderate
+1178,149,74.50,Moderate
+1179,149,74.50,Moderate
+1180,149,74.50,Moderate
+1181,149,74.50,Moderate
+1182,149,74.50,Moderate
+1183,149,74.50,Moderate
+1184,149,74.50,Moderate
+1185,150,75.00,Moderate
+1186,150,75.00,Moderate
+1187,151,75.50,Moderate
+1188,152,76.00,Moderate
+1189,154,77.00,Moderate
+1190,154,77.00,Moderate
+1191,155,77.50,Moderate
+1192,157,78.50,Moderate
+1193,159,79.50,Moderate
+1194,159,79.50,Moderate
+1195,163,81.50,Hard
+1196,163,81.50,Hard
+1197,163,81.50,Hard
+1198,163,81.50,Hard
+1199,163,81.50,Hard
+1200,162,81.00,Hard
+1201,161,80.50,Hard
+1202,161,80.50,Hard
+1203,160,80.00,Hard
+1204,159,79.50,Moderate
+1205,158,79.00,Moderate
+1206,157,78.50,Moderate
+1207,155,77.50,Moderate
+1208,154,77.00,Moderate
+1209,153,76.50,Moderate
+1210,152,76.00,Moderate
+1211,152,76.00,Moderate
+1212,151,75.50,Moderate
+1213,150,75.00,Moderate
+1214,150,75.00,Moderate
+1215,150,75.00,Moderate
+1216,150,75.00,Moderate
+1217,150,75.00,Moderate
+1218,150,75.00,Moderate
+1219,151,75.50,Moderate
+1220,151,75.50,Moderate
+1221,152,76.00,Moderate
+1222,152,76.00,Moderate
+1223,152,76.00,Moderate
+1224,152,76.00,Moderate
+1225,153,76.50,Moderate
+1226,153,76.50,Moderate
+1227,153,76.50,Moderate
+1228,153,76.50,Moderate
+1229,153,76.50,Moderate
+1230,153,76.50,Moderate
+1231,153,76.50,Moderate
+1232,153,76.50,Moderate
+1233,153,76.50,Moderate
+1234,153,76.50,Moderate
+1235,153,76.50,Moderate
+1236,153,76.50,Moderate
+1237,153,76.50,Moderate
+1238,153,76.50,Moderate
+1239,153,76.50,Moderate
+1240,153,76.50,Moderate
+1241,153,76.50,Moderate
+1242,151,75.50,Moderate
+1243,149,74.50,Moderate
+1244,146,73.00,Moderate
+1245,145,72.50,Moderate
+1246,143,71.50,Moderate
+1247,143,71.50,Moderate
+1248,142,71.00,Moderate
+1249,141,70.50,Moderate
+1250,141,70.50,Moderate
+1251,141,70.50,Moderate
+1252,141,70.50,Moderate
+1253,141,70.50,Moderate
+1254,142,71.00,Moderate
+1255,144,72.00,Moderate
+1256,145,72.50,Moderate
+1257,147,73.50,Moderate
+1258,148,74.00,Moderate
+1259,150,75.00,Moderate
+1260,152,76.00,Moderate
+1261,153,76.50,Moderate
+1262,153,76.50,Moderate
+1263,154,77.00,Moderate
+1264,154,77.00,Moderate
+1265,156,78.00,Moderate
+1266,157,78.50,Moderate
+1267,160,80.00,Hard
+1268,160,80.00,Hard
+1269,161,80.50,Hard
+1270,162,81.00,Hard
+1271,162,81.00,Hard
+1272,165,82.50,Hard
+1273,166,83.00,Hard
+1274,166,83.00,Hard
+1275,167,83.50,Hard
+1276,167,83.50,Hard
+1277,168,84.00,Hard
+1278,167,83.50,Hard
+1279,166,83.00,Hard
+1280,166,83.00,Hard
+1281,164,82.00,Hard
+1282,163,81.50,Hard
+1283,162,81.00,Hard
+1284,160,80.00,Hard
+1285,159,79.50,Moderate
+1286,159,79.50,Moderate
+1287,158,79.00,Moderate
+1288,158,79.00,Moderate
+1289,156,78.00,Moderate
+1290,155,77.50,Moderate
+1291,153,76.50,Moderate
+1292,152,76.00,Moderate
+1293,151,75.50,Moderate
+1294,150,75.00,Moderate
+1295,150,75.00,Moderate
+1296,149,74.50,Moderate
+1297,149,74.50,Moderate
+1298,149,74.50,Moderate
+1299,149,74.50,Moderate
+1300,148,74.00,Moderate
+1301,146,73.00,Moderate
+1302,145,72.50,Moderate
+1303,142,71.00,Moderate
+1304,140,70.00,Moderate
+1305,139,69.50,Light
+1306,138,69.00,Light
+1307,138,69.00,Light
+1308,136,68.00,Light
+1309,136,68.00,Light
+1310,136,68.00,Light
+1311,136,68.00,Light
+1312,135,67.50,Light
+1313,135,67.50,Light
+1314,135,67.50,Light
+1315,136,68.00,Light
+1316,137,68.50,Light
+1317,138,69.00,Light
+1318,139,69.50,Light
+1319,139,69.50,Light
+1320,140,70.00,Moderate
+1321,140,70.00,Moderate
+1322,140,70.00,Moderate
+1323,141,70.50,Moderate
+1324,142,71.00,Moderate
+1325,143,71.50,Moderate
+1326,143,71.50,Moderate
+1327,145,72.50,Moderate
+1328,145,72.50,Moderate
+1329,146,73.00,Moderate
+1330,147,73.50,Moderate
+1331,147,73.50,Moderate
+1332,148,74.00,Moderate
+1333,149,74.50,Moderate
+1334,149,74.50,Moderate
+1335,149,74.50,Moderate
+1336,150,75.00,Moderate
+1337,150,75.00,Moderate
+1338,151,75.50,Moderate
+1339,152,76.00,Moderate
+1340,152,76.00,Moderate
+1341,152,76.00,Moderate
+1342,152,76.00,Moderate
+1343,152,76.00,Moderate
+1344,152,76.00,Moderate
+1345,151,75.50,Moderate
+1346,151,75.50,Moderate
+1347,151,75.50,Moderate
+1348,151,75.50,Moderate
+1349,151,75.50,Moderate
+1350,150,75.00,Moderate
+1351,149,74.50,Moderate
+1352,149,74.50,Moderate
+1353,149,74.50,Moderate
+1354,149,74.50,Moderate
+1355,149,74.50,Moderate
+1356,149,74.50,Moderate
+1357,149,74.50,Moderate
+1358,149,74.50,Moderate
+1359,149,74.50,Moderate
+1360,148,74.00,Moderate
+1361,148,74.00,Moderate
+1362,148,74.00,Moderate
+1363,148,74.00,Moderate
+1364,147,73.50,Moderate
+1365,147,73.50,Moderate
+1366,146,73.00,Moderate
+1367,143,71.50,Moderate
+1368,143,71.50,Moderate
+1369,143,71.50,Moderate
+1370,141,70.50,Moderate
+1371,141,70.50,Moderate
+1372,141,70.50,Moderate
+1373,141,70.50,Moderate
+1374,142,71.00,Moderate
+1375,143,71.50,Moderate
+1376,143,71.50,Moderate
+1377,144,72.00,Moderate
+1378,143,71.50,Moderate
+1379,143,71.50,Moderate
+1380,141,70.50,Moderate
+1381,139,69.50,Light
+1382,139,69.50,Light
+1383,137,68.50,Light
+1384,137,68.50,Light
+1385,137,68.50,Light
+1386,138,69.00,Light
+1387,139,69.50,Light
+1388,140,70.00,Moderate
+1389,141,70.50,Moderate
+1390,142,71.00,Moderate
+1391,142,71.00,Moderate
+1392,143,71.50,Moderate
+1393,142,71.00,Moderate
+1394,142,71.00,Moderate
+1395,142,71.00,Moderate
+1396,141,70.50,Moderate
+1397,140,70.00,Moderate
+1398,140,70.00,Moderate
+1399,141,70.50,Moderate
+1400,142,71.00,Moderate
+1401,142,71.00,Moderate
+1402,142,71.00,Moderate
+1403,141,70.50,Moderate
+1404,138,69.00,Light
+1405,138,69.00,Light
+1406,135,67.50,Light
+1407,131,65.50,Light
+1408,129,64.50,Light
+1409,127,63.50,Light
+1410,125,62.50,Light
+1411,124,62.00,Light
+1412,124,62.00,Light
+1413,124,62.00,Light
+1414,124,62.00,Light
+1415,124,62.00,Light
+1416,125,62.50,Light
+1417,125,62.50,Light
+1418,125,62.50,Light
+1419,126,63.00,Light
+1420,127,63.50,Light
+1421,127,63.50,Light
+1422,128,64.00,Light
+1423,125,62.50,Light
+1424,121,60.50,Light
+1425,118,59.00,Very Light
+1426,117,58.50,Very Light
+1427,117,58.50,Very Light
+1428,117,58.50,Very Light
+1429,117,58.50,Very Light
+1430,117,58.50,Very Light
+1431,117,58.50,Very Light
+1432,116,58.00,Very Light
+1433,114,57.00,Very Light
+1434,113,56.50,Very Light
+1435,113,56.50,Very Light
+1436,113,56.50,Very Light
+1437,113,56.50,Very Light
+1438,113,56.50,Very Light
+1439,112,56.00,Very Light
+1440,111,55.50,Very Light
+1441,111,55.50,Very Light
+1442,111,55.50,Very Light
+1443,111,55.50,Very Light
+1444,111,55.50,Very Light
+1445,110,55.00,Very Light
+1446,109,54.50,Very Light
+1447,106,53.00,Very Light
+1448,106,53.00,Very Light
+1449,105,52.50,Very Light
+1450,104,52.00,Very Light
+1451,104,52.00,Very Light
+1452,103,51.50,Very Light
+1453,103,51.50,Very Light
+1454,103,51.50,Very Light
+1455,104,52.00,Very Light
+1456,104,52.00,Very Light
+1457,105,52.50,Very Light
+1458,104,52.00,Very Light
+1459,104,52.00,Very Light
+1460,103,51.50,Very Light
+1461,104,52.00,Very Light
+1462,103,51.50,Very Light
+1463,103,51.50,Very Light
+1464,104,52.00,Very Light
+1465,104,52.00,Very Light
+1466,104,52.00,Very Light
+1467,103,51.50,Very Light
+1468,103,51.50,Very Light
+1469,103,51.50,Very Light
+1470,103,51.50,Very Light
+1471,103,51.50,Very Light
+1472,103,51.50,Very Light
+1473,103,51.50,Very Light
+1474,101,50.50,Very Light
+1475,101,50.50,Very Light
+1476,101,50.50,Very Light
+1477,101,50.50,Very Light
+1478,101,50.50,Very Light
+1479,101,50.50,Very Light
+1480,101,50.50,Very Light
+1481,102,51.00,Very Light
+1482,103,51.50,Very Light
+1483,104,52.00,Very Light
+1484,105,52.50,Very Light
+1485,105,52.50,Very Light
+1486,106,53.00,Very Light
+1487,107,53.50,Very Light
+1488,107,53.50,Very Light
+1489,108,54.00,Very Light
+1490,108,54.00,Very Light
+1491,109,54.50,Very Light
+1492,110,55.00,Very Light
+1493,112,56.00,Very Light
+1494,112,56.00,Very Light
+1495,114,57.00,Very Light
+1496,115,57.50,Very Light
+1497,116,58.00,Very Light
+1498,117,58.50,Very Light
+1499,117,58.50,Very Light
+1500,117,58.50,Very Light
+1501,117,58.50,Very Light
+1502,117,58.50,Very Light
+1503,117,58.50,Very Light
+1504,117,58.50,Very Light
+1505,117,58.50,Very Light
+1506,117,58.50,Very Light
+1507,117,58.50,Very Light
+1508,118,59.00,Very Light
+1509,119,59.50,Very Light
+1510,119,59.50,Very Light
+1511,119,59.50,Very Light
+1512,120,60.00,Light
+1513,120,60.00,Light
+1514,121,60.50,Light
+1515,121,60.50,Light
+1516,122,61.00,Light
+1517,123,61.50,Light
+1518,123,61.50,Light
+1519,123,61.50,Light
+1520,123,61.50,Light
+1521,123,61.50,Light
+1522,123,61.50,Light
+1523,123,61.50,Light
+1524,121,60.50,Light
+1525,121,60.50,Light
+1526,120,60.00,Light
+1527,119,59.50,Very Light
+1528,117,58.50,Very Light
+1529,116,58.00,Very Light
+1530,114,57.00,Very Light
+1531,112,56.00,Very Light
+1532,112,56.00,Very Light
+1533,112,56.00,Very Light
+1534,111,55.50,Very Light
+1535,110,55.00,Very Light
+1536,110,55.00,Very Light
+1537,109,54.50,Very Light
+1538,109,54.50,Very Light
+1539,109,54.50,Very Light
+1540,109,54.50,Very Light
+1541,110,55.00,Very Light
+1542,111,55.50,Very Light
+1543,111,55.50,Very Light
+1544,111,55.50,Very Light
+1545,111,55.50,Very Light
+1546,112,56.00,Very Light
+1547,112,56.00,Very Light
+1548,113,56.50,Very Light
+1549,114,57.00,Very Light
+1550,114,57.00,Very Light
+1551,115,57.50,Very Light
+1552,117,58.50,Very Light
+1553,120,60.00,Light
+1554,121,60.50,Light
+1555,124,62.00,Light
+1556,125,62.50,Light
+1557,126,63.00,Light
+1558,126,63.00,Light
+1559,127,63.50,Light
+1560,128,64.00,Light
+1561,128,64.00,Light
+1562,128,64.00,Light
+1563,129,64.50,Light
+1564,129,64.50,Light
+1565,129,64.50,Light
+1566,129,64.50,Light
+1567,128,64.00,Light
+1568,127,63.50,Light
+1569,127,63.50,Light
+1570,123,61.50,Light
+1571,121,60.50,Light
+1572,118,59.00,Very Light
+1573,118,59.00,Very Light
+1574,116,58.00,Very Light
+1575,115,57.50,Very Light
+1576,114,57.00,Very Light
+1577,114,57.00,Very Light
+1578,114,57.00,Very Light
+1579,115,57.50,Very Light
+1580,116,58.00,Very Light
+1581,116,58.00,Very Light
+1582,117,58.50,Very Light
+1583,117,58.50,Very Light
+1584,117,58.50,Very Light
+1585,117,58.50,Very Light
+1586,117,58.50,Very Light
+1587,118,59.00,Very Light
+1588,119,59.50,Very Light
+1589,120,60.00,Light
+1590,121,60.50,Light
+1591,123,61.50,Light
+1592,123,61.50,Light
+1593,123,61.50,Light
+1594,122,61.00,Light
+1595,120,60.00,Light
+1596,118,59.00,Very Light
+1597,116,58.00,Very Light
+1598,116,58.00,Very Light
+1599,115,57.50,Very Light
+1600,114,57.00,Very Light
+1601,114,57.00,Very Light
+1602,115,57.50,Very Light
+1603,115,57.50,Very Light
+1604,114,57.00,Very Light
+1605,114,57.00,Very Light
+1606,113,56.50,Very Light
+1607,112,56.00,Very Light
+1608,112,56.00,Very Light
+1609,111,55.50,Very Light
+1610,111,55.50,Very Light
+1611,112,56.00,Very Light
+1612,113,56.50,Very Light
+1613,113,56.50,Very Light
+1614,113,56.50,Very Light
+1615,112,56.00,Very Light
+1616,112,56.00,Very Light
+1617,111,55.50,Very Light
+1618,110,55.00,Very Light
+1619,109,54.50,Very Light
+1620,107,53.50,Very Light
+1621,107,53.50,Very Light
+1622,107,53.50,Very Light
+1623,106,53.00,Very Light
+1624,106,53.00,Very Light
+1625,106,53.00,Very Light
+1626,105,52.50,Very Light
+1627,105,52.50,Very Light
+1628,105,52.50,Very Light
+1629,105,52.50,Very Light
+1630,105,52.50,Very Light
+1631,105,52.50,Very Light
+1632,106,53.00,Very Light
+1633,106,53.00,Very Light
+1634,106,53.00,Very Light
+1635,107,53.50,Very Light
+1636,108,54.00,Very Light
+1637,109,54.50,Very Light
+1638,111,55.50,Very Light
+1639,115,57.50,Very Light
+1640,117,58.50,Very Light
+1641,119,59.50,Very Light
+1642,120,60.00,Light
+1643,123,61.50,Light
+1644,124,62.00,Light
+1645,126,63.00,Light
+1646,126,63.00,Light
+1647,127,63.50,Light
+1648,127,63.50,Light
+1649,128,64.00,Light
+1650,128,64.00,Light
+1651,127,63.50,Light
+1652,127,63.50,Light
+1653,126,63.00,Light
+1654,125,62.50,Light
+1655,125,62.50,Light
+1656,123,61.50,Light
+1657,122,61.00,Light
+1658,122,61.00,Light
+1659,121,60.50,Light
+1660,120,60.00,Light
+1661,119,59.50,Very Light
+1662,118,59.00,Very Light
+1663,116,58.00,Very Light
+1664,116,58.00,Very Light
+1665,115,57.50,Very Light
+1666,115,57.50,Very Light
+1667,115,57.50,Very Light
+1668,116,58.00,Very Light
+1669,116,58.00,Very Light
+1670,116,58.00,Very Light
+1671,117,58.50,Very Light
+1672,118,59.00,Very Light
+1673,119,59.50,Very Light
+1674,121,60.50,Light
+1675,125,62.50,Light
+1676,126,63.00,Light
+1677,128,64.00,Light
+1678,129,64.50,Light
+1679,130,65.00,Light
+1680,132,66.00,Light
+1681,132,66.00,Light
+1682,132,66.00,Light
+1683,133,66.50,Light
+1684,133,66.50,Light
+1685,133,66.50,Light
+1686,133,66.50,Light
+1687,132,66.00,Light
+1688,133,66.50,Light
+1689,133,66.50,Light
+1690,134,67.00,Light
+1691,134,67.00,Light
+1692,134,67.00,Light
+1693,134,67.00,Light
+1694,134,67.00,Light
+1695,134,67.00,Light
+1696,134,67.00,Light
+1697,134,67.00,Light
+1698,133,66.50,Light
+1699,131,65.50,Light
+1700,129,64.50,Light
+1701,127,63.50,Light
+1702,127,63.50,Light
+1703,124,62.00,Light
+1704,124,62.00,Light
+1705,122,61.00,Light
+1706,122,61.00,Light
+1707,122,61.00,Light
+1708,121,60.50,Light
+1709,121,60.50,Light
+1710,121,60.50,Light
+1711,122,61.00,Light
+1712,124,62.00,Light
+1713,125,62.50,Light
+1714,126,63.00,Light
+1715,128,64.00,Light
+1716,128,64.00,Light
+1717,129,64.50,Light
+1718,129,64.50,Light
+1719,130,65.00,Light
+1720,131,65.50,Light
+1721,133,66.50,Light
+1722,133,66.50,Light
+1723,135,67.50,Light
+1724,136,68.00,Light
+1725,137,68.50,Light
+1726,138,69.00,Light
+1727,139,69.50,Light
+1728,139,69.50,Light
+1729,139,69.50,Light
+1730,140,70.00,Moderate
+1731,141,70.50,Moderate
+1732,141,70.50,Moderate
+1733,142,71.00,Moderate
+1734,142,71.00,Moderate
+1735,142,71.00,Moderate
+1736,141,70.50,Moderate
+1737,140,70.00,Moderate
+1738,139,69.50,Light
+1739,138,69.00,Light
+1740,138,69.00,Light
+1741,136,68.00,Light
+1742,136,68.00,Light
+1743,135,67.50,Light
+1744,135,67.50,Light
+1745,134,67.00,Light
+1746,132,66.00,Light
+1747,129,64.50,Light
+1748,128,64.00,Light
+1749,127,63.50,Light
+1750,126,63.00,Light
+1751,125,62.50,Light
+1752,123,61.50,Light
+1753,122,61.00,Light
+1754,122,61.00,Light
+1755,120,60.00,Light
+1756,120,60.00,Light
+1757,120,60.00,Light
+1758,120,60.00,Light
+1759,124,62.00,Light
+1760,125,62.50,Light
+1761,126,63.00,Light
+1762,127,63.50,Light
+1763,128,64.00,Light
+1764,129,64.50,Light
+1765,130,65.00,Light
+1766,130,65.00,Light
+1767,130,65.00,Light
+1768,131,65.50,Light
+1769,131,65.50,Light
+1770,131,65.50,Light
+1771,129,64.50,Light
+1772,129,64.50,Light
+1773,126,63.00,Light
+1774,125,62.50,Light
+1775,125,62.50,Light
+1776,124,62.00,Light
+1777,124,62.00,Light
+1778,124,62.00,Light
+1779,124,62.00,Light
+1780,123,61.50,Light
+1781,123,61.50,Light
+1782,122,61.00,Light
+1783,121,60.50,Light
+1784,121,60.50,Light
+1785,120,60.00,Light
+1786,120,60.00,Light
+1787,120,60.00,Light
+1788,121,60.50,Light
+1789,122,61.00,Light
+1790,122,61.00,Light
+1791,123,61.50,Light
+1792,125,62.50,Light
+1793,125,62.50,Light
+1794,126,63.00,Light
+1795,128,64.00,Light
+1796,128,64.00,Light
+1797,128,64.00,Light
+1798,127,63.50,Light
+1799,125,62.50,Light
+1800,122,61.00,Light
+1801,121,60.50,Light
+1802,121,60.50,Light
+1803,120,60.00,Light
+1804,120,60.00,Light
+1805,120,60.00,Light
+1806,121,60.50,Light
+1807,121,60.50,Light
+1808,122,61.00,Light
+1809,123,61.50,Light
+1810,124,62.00,Light
+1811,124,62.00,Light
+1812,125,62.50,Light
+1813,125,62.50,Light
+1814,125,62.50,Light
+1815,125,62.50,Light
+1816,125,62.50,Light
+1817,126,63.00,Light
+1818,126,63.00,Light
+1819,128,64.00,Light
+1820,128,64.00,Light
+1821,128,64.00,Light
+1822,128,64.00,Light
+1823,126,63.00,Light
+1824,124,62.00,Light
+1825,123,61.50,Light
+1826,123,61.50,Light
+1827,122,61.00,Light
+1828,122,61.00,Light
+1829,122,61.00,Light
+1830,123,61.50,Light
+1831,122,61.00,Light
+1832,122,61.00,Light
+1833,122,61.00,Light
+1834,122,61.00,Light
+1835,122,61.00,Light
+1836,122,61.00,Light
+1837,122,61.00,Light
+1838,122,61.00,Light
+1839,121,60.50,Light
+1840,120,60.00,Light
+1841,118,59.00,Very Light
+1842,117,58.50,Very Light
+1843,116,58.00,Very Light
+1844,116,58.00,Very Light
+1845,115,57.50,Very Light
+1846,115,57.50,Very Light
+1847,114,57.00,Very Light
+1848,115,57.50,Very Light
+1849,117,58.50,Very Light
+1850,117,58.50,Very Light
+1851,120,60.00,Light
+1852,122,61.00,Light
+1853,124,62.00,Light
+1854,126,63.00,Light
+1855,130,65.00,Light
+1856,132,66.00,Light
+1857,132,66.00,Light
+1858,133,66.50,Light
+1859,134,67.00,Light
+1860,134,67.00,Light
+1861,134,67.00,Light
+1862,134,67.00,Light
+1863,135,67.50,Light
+1864,135,67.50,Light
+1865,134,67.00,Light
+1866,134,67.00,Light
+1867,134,67.00,Light
+1868,135,67.50,Light
+1869,135,67.50,Light
+1870,136,68.00,Light
+1871,137,68.50,Light
+1872,137,68.50,Light
+1873,137,68.50,Light
+1874,137,68.50,Light
+1875,137,68.50,Light
+1876,137,68.50,Light
+1877,137,68.50,Light
+1878,136,68.00,Light
+1879,133,66.50,Light
+1880,131,65.50,Light
+1881,131,65.50,Light
+1882,127,63.50,Light
+1883,124,62.00,Light
+1884,124,62.00,Light
+1885,122,61.00,Light
+1886,120,60.00,Light
+1887,119,59.50,Very Light
+1888,118,59.00,Very Light
+1889,118,59.00,Very Light
+1890,117,58.50,Very Light
+1891,115,57.50,Very Light
+1892,115,57.50,Very Light
+1893,114,57.00,Very Light
+1894,114,57.00,Very Light
+1895,115,57.50,Very Light
+1896,115,57.50,Very Light
+1897,116,58.00,Very Light
+1898,116,58.00,Very Light
+1899,116,58.00,Very Light
+1900,116,58.00,Very Light
+1901,116,58.00,Very Light
+1902,116,58.00,Very Light
+1903,117,58.50,Very Light
+1904,117,58.50,Very Light
+1905,116,58.00,Very Light
+1906,116,58.00,Very Light
+1907,116,58.00,Very Light
+1908,116,58.00,Very Light
+1909,116,58.00,Very Light
+1910,116,58.00,Very Light
+1911,115,57.50,Very Light
+1912,114,57.00,Very Light
+1913,114,57.00,Very Light
+1914,114,57.00,Very Light
+1915,116,58.00,Very Light
+1916,116,58.00,Very Light
+1917,116,58.00,Very Light
+1918,117,58.50,Very Light
+1919,117,58.50,Very Light
+1920,119,59.50,Very Light
+1921,120,60.00,Light
+1922,120,60.00,Light
+1923,121,60.50,Light
+1924,122,61.00,Light
+1925,123,61.50,Light
+1926,124,62.00,Light
+1927,124,62.00,Light
+1928,124,62.00,Light
+1929,124,62.00,Light
+1930,124,62.00,Light
+1931,124,62.00,Light
+1932,125,62.50,Light
+1933,125,62.50,Light
+1934,125,62.50,Light
+1935,125,62.50,Light
+1936,126,63.00,Light
+1937,127,63.50,Light
+1938,128,64.00,Light
+1939,129,64.50,Light
+1940,130,65.00,Light
+1941,130,65.00,Light
+1942,130,65.00,Light
+1943,130,65.00,Light
+1944,130,65.00,Light
+1945,131,65.50,Light
+1946,131,65.50,Light
+1947,130,65.00,Light
+1948,130,65.00,Light
+1949,131,65.50,Light
+1950,131,65.50,Light
+1951,131,65.50,Light
+1952,131,65.50,Light
+1953,131,65.50,Light
+1954,131,65.50,Light
+1955,130,65.00,Light
+1956,130,65.00,Light
+1957,130,65.00,Light
+1958,130,65.00,Light
+1959,131,65.50,Light
+1960,131,65.50,Light
+1961,130,65.00,Light
+1962,128,64.00,Light
+1963,124,62.00,Light
+1964,123,61.50,Light
+1965,121,60.50,Light
+1966,121,60.50,Light
+1967,120,60.00,Light
+1968,119,59.50,Very Light
+1969,119,59.50,Very Light
+1970,119,59.50,Very Light
+1971,118,59.00,Very Light
+1972,117,58.50,Very Light
+1973,116,58.00,Very Light
+1974,116,58.00,Very Light
+1975,114,57.00,Very Light
+1976,113,56.50,Very Light
+1977,113,56.50,Very Light
+1978,113,56.50,Very Light
+1979,112,56.00,Very Light
+1980,112,56.00,Very Light
+1981,112,56.00,Very Light
+1982,112,56.00,Very Light
+1983,112,56.00,Very Light
+1984,111,55.50,Very Light
+1985,111,55.50,Very Light
+1986,110,55.00,Very Light
+1987,109,54.50,Very Light
+1988,109,54.50,Very Light
+1989,109,54.50,Very Light
+1990,108,54.00,Very Light
+1991,108,54.00,Very Light
+1992,107,53.50,Very Light
+1993,107,53.50,Very Light
+1994,107,53.50,Very Light
+1995,107,53.50,Very Light
+1996,108,54.00,Very Light
+1997,108,54.00,Very Light
+1998,108,54.00,Very Light
+1999,108,54.00,Very Light
+2000,108,54.00,Very Light
+2001,108,54.00,Very Light
+2002,109,54.50,Very Light
+2003,110,55.00,Very Light
+2004,111,55.50,Very Light
+2005,112,56.00,Very Light
+2006,112,56.00,Very Light
+2007,112,56.00,Very Light
+2008,113,56.50,Very Light
+2009,114,57.00,Very Light
+2010,114,57.00,Very Light
+2011,115,57.50,Very Light
+2012,116,58.00,Very Light
+2013,116,58.00,Very Light
+2014,116,58.00,Very Light
+2015,116,58.00,Very Light
+2016,116,58.00,Very Light
+2017,116,58.00,Very Light
+2018,116,58.00,Very Light
+2019,116,58.00,Very Light
+2020,115,57.50,Very Light
+2021,115,57.50,Very Light
+2022,115,57.50,Very Light
+2023,115,57.50,Very Light
+2024,115,57.50,Very Light
+2025,114,57.00,Very Light
+2026,114,57.00,Very Light
+2027,114,57.00,Very Light
+2028,113,56.50,Very Light
+2029,113,56.50,Very Light
+2030,113,56.50,Very Light
+2031,113,56.50,Very Light
+2032,113,56.50,Very Light
+2033,114,57.00,Very Light
+2034,114,57.00,Very Light
+2035,113,56.50,Very Light
+2036,113,56.50,Very Light
+2037,113,56.50,Very Light
+2038,113,56.50,Very Light
+2039,112,56.00,Very Light
+2040,112,56.00,Very Light
+2041,112,56.00,Very Light
+2042,112,56.00,Very Light
+2043,111,55.50,Very Light
+2044,111,55.50,Very Light
+2045,112,56.00,Very Light
+2046,112,56.00,Very Light
+2047,112,56.00,Very Light
+2048,112,56.00,Very Light
+2049,112,56.00,Very Light
+2050,113,56.50,Very Light
+2051,113,56.50,Very Light
+2052,113,56.50,Very Light
+2053,113,56.50,Very Light
+2054,113,56.50,Very Light
+2055,113,56.50,Very Light
+2056,112,56.00,Very Light
+2057,112,56.00,Very Light
+2058,111,55.50,Very Light
+2059,112,56.00,Very Light
+2060,112,56.00,Very Light
+2061,113,56.50,Very Light
+2062,113,56.50,Very Light
+2063,112,56.00,Very Light
+2064,111,55.50,Very Light
+2065,111,55.50,Very Light
+2066,111,55.50,Very Light
+2067,109,54.50,Very Light
+2068,108,54.00,Very Light
+2069,107,53.50,Very Light
+2070,107,53.50,Very Light
+2071,106,53.00,Very Light
+2072,106,53.00,Very Light
+2073,106,53.00,Very Light
+2074,106,53.00,Very Light
+2075,105,52.50,Very Light
+2076,104,52.00,Very Light
+2077,104,52.00,Very Light
+2078,104,52.00,Very Light
+2079,103,51.50,Very Light
+2080,104,52.00,Very Light
+2081,104,52.00,Very Light
+2082,104,52.00,Very Light
+2083,105,52.50,Very Light
+2084,106,53.00,Very Light
+2085,106,53.00,Very Light
+2086,106,53.00,Very Light
+2087,106,53.00,Very Light
+2088,106,53.00,Very Light
+2089,106,53.00,Very Light
+2090,106,53.00,Very Light
+2091,105,52.50,Very Light
+2092,105,52.50,Very Light
+2093,104,52.00,Very Light
+2094,104,52.00,Very Light
+2095,105,52.50,Very Light
+2096,105,52.50,Very Light
+2097,105,52.50,Very Light
+2098,105,52.50,Very Light
+2099,104,52.00,Very Light
+2100,104,52.00,Very Light
+2101,104,52.00,Very Light
+2102,104,52.00,Very Light
+2103,104,52.00,Very Light
+2104,104,52.00,Very Light
+2105,106,53.00,Very Light
+2106,107,53.50,Very Light
+2107,107,53.50,Very Light
+2108,109,54.50,Very Light
+2109,109,54.50,Very Light
+2110,110,55.00,Very Light
+2111,110,55.00,Very Light
+2112,110,55.00,Very Light
+2113,110,55.00,Very Light
+2114,110,55.00,Very Light
+2115,110,55.00,Very Light
+2116,110,55.00,Very Light
+2117,111,55.50,Very Light
+2118,111,55.50,Very Light
+2119,112,56.00,Very Light
+2120,113,56.50,Very Light
+2121,113,56.50,Very Light
+2122,112,56.00,Very Light
+2123,111,55.50,Very Light
+2124,110,55.00,Very Light
+2125,107,53.50,Very Light
+2126,107,53.50,Very Light
+2127,105,52.50,Very Light
+2128,102,51.00,Very Light
+2129,100,50.00,Very Light
+2130,99,49.50,Unknown
+2131,98,49.00,Unknown
+2132,98,49.00,Unknown
+2133,98,49.00,Unknown
+2134,98,49.00,Unknown
+2135,99,49.50,Unknown
+2136,98,49.00,Unknown
+2137,98,49.00,Unknown
+2138,98,49.00,Unknown
+2139,97,48.50,Unknown
+2140,97,48.50,Unknown
+2141,96,48.00,Unknown
+2142,96,48.00,Unknown
+2143,96,48.00,Unknown
+2144,96,48.00,Unknown
+2145,96,48.00,Unknown
+2146,96,48.00,Unknown
+2147,96,48.00,Unknown
+2148,97,48.50,Unknown
+2149,97,48.50,Unknown
+2150,97,48.50,Unknown
+2151,97,48.50,Unknown
+2152,98,49.00,Unknown
+2153,99,49.50,Unknown
+2154,99,49.50,Unknown
+2155,99,49.50,Unknown
+2156,99,49.50,Unknown
+2157,99,49.50,Unknown
+2158,99,49.50,Unknown
+2159,98,49.00,Unknown
+2160,97,48.50,Unknown
+2161,97,48.50,Unknown
+2162,97,48.50,Unknown
+2163,96,48.00,Unknown
+2164,95,47.50,Unknown
+2165,95,47.50,Unknown
+2166,94,47.00,Unknown
+2167,93,46.50,Unknown
+2168,93,46.50,Unknown
+2169,94,47.00,Unknown
+2170,94,47.00,Unknown
+2171,96,48.00,Unknown
+2172,97,48.50,Unknown
+2173,97,48.50,Unknown
+2174,98,49.00,Unknown
+2175,99,49.50,Unknown
+2176,100,50.00,Very Light
+2177,100,50.00,Very Light
+2178,100,50.00,Very Light
+2179,100,50.00,Very Light
+2180,100,50.00,Very Light
+2181,100,50.00,Very Light
+2182,100,50.00,Very Light
+2183,100,50.00,Very Light
+2184,100,50.00,Very Light
+2185,100,50.00,Very Light
+2186,100,50.00,Very Light
+2187,100,50.00,Very Light
+2188,100,50.00,Very Light
+2189,100,50.00,Very Light
+2190,99,49.50,Unknown
+2191,99,49.50,Unknown
+2192,99,49.50,Unknown
+2193,100,50.00,Very Light
+2194,100,50.00,Very Light
+2195,101,50.50,Very Light
+2196,101,50.50,Very Light
+2197,101,50.50,Very Light
+2198,101,50.50,Very Light
+2199,101,50.50,Very Light
+2200,101,50.50,Very Light
+2201,101,50.50,Very Light
+2202,100,50.00,Very Light
+2203,100,50.00,Very Light
+2204,100,50.00,Very Light
+2205,100,50.00,Very Light
+2206,100,50.00,Very Light
+2207,101,50.50,Very Light
+2208,100,50.00,Very Light
+2209,101,50.50,Very Light
+2210,101,50.50,Very Light
+2211,101,50.50,Very Light
+2212,101,50.50,Very Light
+2213,100,50.00,Very Light
+2214,101,50.50,Very Light
+2215,102,51.00,Very Light
+2216,103,51.50,Very Light
+2217,103,51.50,Very Light
+2218,103,51.50,Very Light
+2219,103,51.50,Very Light
+2220,103,51.50,Very Light
+2221,102,51.00,Very Light
+2222,102,51.00,Very Light
+2223,102,51.00,Very Light
+2224,102,51.00,Very Light
+2225,102,51.00,Very Light
+2226,102,51.00,Very Light
+2227,103,51.50,Very Light
+2228,103,51.50,Very Light
+2229,103,51.50,Very Light
+2230,102,51.00,Very Light
+2231,102,51.00,Very Light
+2232,102,51.00,Very Light
+2233,102,51.00,Very Light
+2234,102,51.00,Very Light
+2235,102,51.00,Very Light
+2236,101,50.50,Very Light
+2237,101,50.50,Very Light
+2238,100,50.00,Very Light
+2239,101,50.50,Very Light
+2240,101,50.50,Very Light
+2241,100,50.00,Very Light
+2242,100,50.00,Very Light
+2243,100,50.00,Very Light
+2244,100,50.00,Very Light
+2245,101,50.50,Very Light
+2246,101,50.50,Very Light
+2247,102,51.00,Very Light
+2248,102,51.00,Very Light
+2249,103,51.50,Very Light
+2250,103,51.50,Very Light
+2251,103,51.50,Very Light
+2252,103,51.50,Very Light
+2253,102,51.00,Very Light
+2254,101,50.50,Very Light
+2255,100,50.00,Very Light
+2256,99,49.50,Unknown
+2257,99,49.50,Unknown
+2258,99,49.50,Unknown
+2259,99,49.50,Unknown
+2260,100,50.00,Very Light
+2261,101,50.50,Very Light
+2262,101,50.50,Very Light
+2263,101,50.50,Very Light
+2264,101,50.50,Very Light
+2265,101,50.50,Very Light
+2266,101,50.50,Very Light
+2267,101,50.50,Very Light
+2268,101,50.50,Very Light
+2269,100,50.00,Very Light
+2270,100,50.00,Very Light
+2271,100,50.00,Very Light
+2272,100,50.00,Very Light
+2273,100,50.00,Very Light
+2274,99,49.50,Unknown
+2275,100,50.00,Very Light
+2276,100,50.00,Very Light
+2277,101,50.50,Very Light
+2278,101,50.50,Very Light
+2279,101,50.50,Very Light
+2280,101,50.50,Very Light
+2281,101,50.50,Very Light
+2282,101,50.50,Very Light
+2283,101,50.50,Very Light
+2284,102,51.00,Very Light
+2285,102,51.00,Very Light
+2286,102,51.00,Very Light
+2287,103,51.50,Very Light
+2288,103,51.50,Very Light
+2289,102,51.00,Very Light
+2290,102,51.00,Very Light
+2291,102,51.00,Very Light
+2292,102,51.00,Very Light
+2293,102,51.00,Very Light
+2294,102,51.00,Very Light
+2295,102,51.00,Very Light
+2296,102,51.00,Very Light
+2297,102,51.00,Very Light
+2298,102,51.00,Very Light
+2299,103,51.50,Very Light
+2300,103,51.50,Very Light
+2301,104,52.00,Very Light
+2302,102,51.00,Very Light
+2303,101,50.50,Very Light
+2304,99,49.50,Unknown
+2305,98,49.00,Unknown
+2306,98,49.00,Unknown
+2307,97,48.50,Unknown
+2308,97,48.50,Unknown
+2309,97,48.50,Unknown
+2310,98,49.00,Unknown
+2311,99,49.50,Unknown
+2312,99,49.50,Unknown
+2313,100,50.00,Very Light
+2314,100,50.00,Very Light
+2315,100,50.00,Very Light
+2316,99,49.50,Unknown
+2317,99,49.50,Unknown
+2318,99,49.50,Unknown
+2319,99,49.50,Unknown
+2320,99,49.50,Unknown
+2321,100,50.00,Very Light
+2322,100,50.00,Very Light
+2323,101,50.50,Very Light
+2324,101,50.50,Very Light
+2325,101,50.50,Very Light
+2326,101,50.50,Very Light
+2327,101,50.50,Very Light
+2328,100,50.00,Very Light
+2329,98,49.00,Unknown
+2330,98,49.00,Unknown
+2331,98,49.00,Unknown
+2332,98,49.00,Unknown
+2333,98,49.00,Unknown
+2334,99,49.50,Unknown
+2335,100,50.00,Very Light
+2336,99,49.50,Unknown
+2337,99,49.50,Unknown
+2338,99,49.50,Unknown
+2339,98,49.00,Unknown
+2340,99,49.50,Unknown
+2341,99,49.50,Unknown
+2342,100,50.00,Very Light
+2343,100,50.00,Very Light
+2344,101,50.50,Very Light
+2345,101,50.50,Very Light
+2346,102,51.00,Very Light
+2347,103,51.50,Very Light
+2348,103,51.50,Very Light
+2349,103,51.50,Very Light
+2350,103,51.50,Very Light
+2351,103,51.50,Very Light
+2352,103,51.50,Very Light
+2353,101,50.50,Very Light
+2354,101,50.50,Very Light
+2355,100,50.00,Very Light
+2356,99,49.50,Unknown
+2357,99,49.50,Unknown
+2358,99,49.50,Unknown
+2359,98,49.00,Unknown
+2360,98,49.00,Unknown
+2361,98,49.00,Unknown
+2362,98,49.00,Unknown
+2363,99,49.50,Unknown
+2364,99,49.50,Unknown
+2365,99,49.50,Unknown
+2366,99,49.50,Unknown
+2367,99,49.50,Unknown
+2368,100,50.00,Very Light
+2369,100,50.00,Very Light
+2370,100,50.00,Very Light
+2371,101,50.50,Very Light
+2372,100,50.00,Very Light
+2373,100,50.00,Very Light
+2374,100,50.00,Very Light
+2375,99,49.50,Unknown
+2376,98,49.00,Unknown
+2377,97,48.50,Unknown
+2378,97,48.50,Unknown
+2379,97,48.50,Unknown
+2380,96,48.00,Unknown
+2381,96,48.00,Unknown
+2382,96,48.00,Unknown
+2383,95,47.50,Unknown
+2384,95,47.50,Unknown
+2385,94,47.00,Unknown
+2386,93,46.50,Unknown
+2387,93,46.50,Unknown
+2388,93,46.50,Unknown
+2389,94,47.00,Unknown
+2390,94,47.00,Unknown
+2391,95,47.50,Unknown
+2392,96,48.00,Unknown
+2393,95,47.50,Unknown
+2394,95,47.50,Unknown
+2395,95,47.50,Unknown
+2396,96,48.00,Unknown
+2397,96,48.00,Unknown
+2398,96,48.00,Unknown
+2399,97,48.50,Unknown
+2400,96,48.00,Unknown
+2401,95,47.50,Unknown
+2402,95,47.50,Unknown
+2403,95,47.50,Unknown
+2404,95,47.50,Unknown
+2405,95,47.50,Unknown
+2406,95,47.50,Unknown
+2407,97,48.50,Unknown
+2408,98,49.00,Unknown
+2409,98,49.00,Unknown
+2410,100,50.00,Very Light
+2411,100,50.00,Very Light
+2412,100,50.00,Very Light
+2413,99,49.50,Unknown
+2414,99,49.50,Unknown
+2415,97,48.50,Unknown
+2416,96,48.00,Unknown
+2417,95,47.50,Unknown
+2418,95,47.50,Unknown
+2419,95,47.50,Unknown
+2420,96,48.00,Unknown
+2421,96,48.00,Unknown
+2422,96,48.00,Unknown
+2423,97,48.50,Unknown
+2424,97,48.50,Unknown
+2425,97,48.50,Unknown
+2426,97,48.50,Unknown
+2427,95,47.50,Unknown
+2428,94,47.00,Unknown
+2429,94,47.00,Unknown
+2430,95,47.50,Unknown
+2431,97,48.50,Unknown
+2432,98,49.00,Unknown
+2433,98,49.00,Unknown
+2434,96,48.00,Unknown
+2435,96,48.00,Unknown
+2436,95,47.50,Unknown
+2437,95,47.50,Unknown
+2438,94,47.00,Unknown
+2439,94,47.00,Unknown
+2440,94,47.00,Unknown
+2441,94,47.00,Unknown
+2442,95,47.50,Unknown
+2443,95,47.50,Unknown
+2444,95,47.50,Unknown
+2445,95,47.50,Unknown
+2446,95,47.50,Unknown
+2447,97,48.50,Unknown
+2448,97,48.50,Unknown
+2449,97,48.50,Unknown
+2450,96,48.00,Unknown
+2451,96,48.00,Unknown
+2452,95,47.50,Unknown
+2453,95,47.50,Unknown
+2454,95,47.50,Unknown
+2455,96,48.00,Unknown
+2456,96,48.00,Unknown
+2457,97,48.50,Unknown
+2458,96,48.00,Unknown
+2459,96,48.00,Unknown
+2460,96,48.00,Unknown
+2461,96,48.00,Unknown
+2462,96,48.00,Unknown
+2463,98,49.00,Unknown
+2464,99,49.50,Unknown
+2465,100,50.00,Very Light
+2466,102,51.00,Very Light
+2467,103,51.50,Very Light
+2468,101,50.50,Very Light
+2469,100,50.00,Very Light
+2470,98,49.00,Unknown
+2471,97,48.50,Unknown
+2472,95,47.50,Unknown
+2473,94,47.00,Unknown
+2474,94,47.00,Unknown
+2475,95,47.50,Unknown
+2476,95,47.50,Unknown
+2477,96,48.00,Unknown
+2478,97,48.50,Unknown
+2479,97,48.50,Unknown
+2480,97,48.50,Unknown
+2481,99,49.50,Unknown
+2482,99,49.50,Unknown
+2483,99,49.50,Unknown
+2484,99,49.50,Unknown
+2485,99,49.50,Unknown
+2486,99,49.50,Unknown
+2487,99,49.50,Unknown
+2488,99,49.50,Unknown
+2489,99,49.50,Unknown
+2490,99,49.50,Unknown
+2491,99,49.50,Unknown
+2494,95,47.50,Unknown
+2495,95,47.50,Unknown
+2496,95,47.50,Unknown
+2497,96,48.00,Unknown
+2498,98,49.00,Unknown
+2499,99,49.50,Unknown
+2500,102,51.00,Very Light
+2501,105,52.50,Very Light
+2502,108,54.00,Very Light
+2503,111,55.50,Very Light
+2504,114,57.00,Very Light
+2505,116,58.00,Very Light
+2506,116,58.00,Very Light
+2507,115,57.50,Very Light
+2508,114,57.00,Very Light
+2509,113,56.50,Very Light
+2510,113,56.50,Very Light
+2511,112,56.00,Very Light
+2512,112,56.00,Very Light
+2513,113,56.50,Very Light
+2514,113,56.50,Very Light
+2515,113,56.50,Very Light
+2516,113,56.50,Very Light
+2517,113,56.50,Very Light
+2518,113,56.50,Very Light
+2519,113,56.50,Very Light
+2520,112,56.00,Very Light
+2521,112,56.00,Very Light
+2522,112,56.00,Very Light
+2523,112,56.00,Very Light
+2524,112,56.00,Very Light
+2525,112,56.00,Very Light
+2526,113,56.50,Very Light
+2527,114,57.00,Very Light
+2528,115,57.50,Very Light
+2529,115,57.50,Very Light
+2530,114,57.00,Very Light
+2531,113,56.50,Very Light
+2532,113,56.50,Very Light
+2533,113,56.50,Very Light
+2534,113,56.50,Very Light
+2535,113,56.50,Very Light
+2536,113,56.50,Very Light
+2537,113,56.50,Very Light
+2538,113,56.50,Very Light
+2539,113,56.50,Very Light
+2540,113,56.50,Very Light
+2541,113,56.50,Very Light
+2542,111,55.50,Very Light
+2543,110,55.00,Very Light
+2544,110,55.00,Very Light
+2545,110,55.00,Very Light
+2546,109,54.50,Very Light
+2547,109,54.50,Very Light
+2548,109,54.50,Very Light
+2549,108,54.00,Very Light
+2550,107,53.50,Very Light
+2551,106,53.00,Very Light
+2552,106,53.00,Very Light
+2553,106,53.00,Very Light
+2554,106,53.00,Very Light
+2555,107,53.50,Very Light
+2556,107,53.50,Very Light
+2557,106,53.00,Very Light
+2558,106,53.00,Very Light
+2559,105,52.50,Very Light
+2560,104,52.00,Very Light
+2561,104,52.00,Very Light
+2562,104,52.00,Very Light
+2563,104,52.00,Very Light
+2564,109,54.50,Very Light
+2565,110,55.00,Very Light
+2566,110,55.00,Very Light
+2567,110,55.00,Very Light
+2568,110,55.00,Very Light
+2569,110,55.00,Very Light
+2570,110,55.00,Very Light
+2571,110,55.00,Very Light
+2572,111,55.50,Very Light
+2573,111,55.50,Very Light
+2574,111,55.50,Very Light
+2575,111,55.50,Very Light
+2576,109,54.50,Very Light
+2577,109,54.50,Very Light
+2578,107,53.50,Very Light
+2579,107,53.50,Very Light
+2580,106,53.00,Very Light
+2581,106,53.00,Very Light
+2582,105,52.50,Very Light
+2583,105,52.50,Very Light
+2584,105,52.50,Very Light
+2585,105,52.50,Very Light
+2586,105,52.50,Very Light
+2587,105,52.50,Very Light
+2588,105,52.50,Very Light
+2589,105,52.50,Very Light
+2590,106,53.00,Very Light
+2591,106,53.00,Very Light
+2592,106,53.00,Very Light
+2593,106,53.00,Very Light
+2594,106,53.00,Very Light
+2595,106,53.00,Very Light
+2596,106,53.00,Very Light
+2597,106,53.00,Very Light
+2598,106,53.00,Very Light
+2599,105,52.50,Very Light
+2600,104,52.00,Very Light
+2601,104,52.00,Very Light
+2602,104,52.00,Very Light
+2603,103,51.50,Very Light
+2604,103,51.50,Very Light
+2605,103,51.50,Very Light
+2606,104,52.00,Very Light
+2607,104,52.00,Very Light
+2608,105,52.50,Very Light
+2609,105,52.50,Very Light
+2610,106,53.00,Very Light
+2611,106,53.00,Very Light
+2612,104,52.00,Very Light
+2613,104,52.00,Very Light
+2614,102,51.00,Very Light
+2615,99,49.50,Unknown
+2616,99,49.50,Unknown
+2617,100,50.00,Very Light
+2618,101,50.50,Very Light
+2619,101,50.50,Very Light
+2620,103,51.50,Very Light
+2621,105,52.50,Very Light
+2622,106,53.00,Very Light
+2623,106,53.00,Very Light
+2624,102,51.00,Very Light
+2625,97,48.50,Unknown
+2626,97,48.50,Unknown
+2627,97,48.50,Unknown
+2628,94,47.00,Unknown
+2629,94,47.00,Unknown
+2630,96,48.00,Unknown
+2631,96,48.00,Unknown
+2632,99,49.50,Unknown
+2633,100,50.00,Very Light
+2634,103,51.50,Very Light
+2635,103,51.50,Very Light
+2636,103,51.50,Very Light
+2637,102,51.00,Very Light
+2638,102,51.00,Very Light
+2639,101,50.50,Very Light
+2640,102,51.00,Very Light
+2641,102,51.00,Very Light
+2642,102,51.00,Very Light
+2643,102,51.00,Very Light
+2644,103,51.50,Very Light
+2645,103,51.50,Very Light
+2646,102,51.00,Very Light
+2647,102,51.00,Very Light
+2648,101,50.50,Very Light
+2649,101,50.50,Very Light
+2650,102,51.00,Very Light
+2651,102,51.00,Very Light
+2652,103,51.50,Very Light
+2653,103,51.50,Very Light
+2654,103,51.50,Very Light
+2655,103,51.50,Very Light
+2656,103,51.50,Very Light
+2657,102,51.00,Very Light
+2658,100,50.00,Very Light
+2659,100,50.00,Very Light
+2660,97,48.50,Unknown
+2661,97,48.50,Unknown
+2662,94,47.00,Unknown
+2663,93,46.50,Unknown
+2664,91,45.50,Unknown
+2665,90,45.00,Unknown
+2666,90,45.00,Unknown
+2667,88,44.00,Unknown
+2668,88,44.00,Unknown
+2669,89,44.50,Unknown
+2670,90,45.00,Unknown
+2671,91,45.50,Unknown
+2672,95,47.50,Unknown
+2673,95,47.50,Unknown
+2674,95,47.50,Unknown
+2675,94,47.00,Unknown
+2676,94,47.00,Unknown
+2677,94,47.00,Unknown
+2678,94,47.00,Unknown
+2679,94,47.00,Unknown
+2680,94,47.00,Unknown
+2681,93,46.50,Unknown
+2682,93,46.50,Unknown
+2683,95,47.50,Unknown
+2684,95,47.50,Unknown
+2685,95,47.50,Unknown
+2686,98,49.00,Unknown
+2687,98,49.00,Unknown
+2688,99,49.50,Unknown
+2689,99,49.50,Unknown
+2690,99,49.50,Unknown
+2691,98,49.00,Unknown
+2692,98,49.00,Unknown
+2693,98,49.00,Unknown
+2694,97,48.50,Unknown
+2695,97,48.50,Unknown
+2696,96,48.00,Unknown
+2697,97,48.50,Unknown
+2698,97,48.50,Unknown
+2699,97,48.50,Unknown
+2700,97,48.50,Unknown
+2701,99,49.50,Unknown
+2702,99,49.50,Unknown
+2703,100,50.00,Very Light
+2704,101,50.50,Very Light
+2705,101,50.50,Very Light
+2706,101,50.50,Very Light
+2707,101,50.50,Very Light
+2708,101,50.50,Very Light
+2709,101,50.50,Very Light
+2710,98,49.00,Unknown
+2711,98,49.00,Unknown
+2712,98,49.00,Unknown
+2713,99,49.50,Unknown
+2714,99,49.50,Unknown
+2715,99,49.50,Unknown
+2716,100,50.00,Very Light
+2717,100,50.00,Very Light
+2718,101,50.50,Very Light
+2719,102,51.00,Very Light
+2720,104,52.00,Very Light
+2721,105,52.50,Very Light
+2722,105,52.50,Very Light
+2723,107,53.50,Very Light
+2724,108,54.00,Very Light
+2725,108,54.00,Very Light
+2726,109,54.50,Very Light
+2727,109,54.50,Very Light
+2728,109,54.50,Very Light
+2729,108,54.00,Very Light
+2730,108,54.00,Very Light
+2731,106,53.00,Very Light
+2732,104,52.00,Very Light
+2733,104,52.00,Very Light
+2734,104,52.00,Very Light
+2735,106,53.00,Very Light
+2736,107,53.50,Very Light
+2737,107,53.50,Very Light
+2738,107,53.50,Very Light
+2739,107,53.50,Very Light
+2740,107,53.50,Very Light
+2741,108,54.00,Very Light
+2742,107,53.50,Very Light
+2743,106,53.00,Very Light
+2744,104,52.00,Very Light
+2745,103,51.50,Very Light
+2746,103,51.50,Very Light
+2747,102,51.00,Very Light
+2748,102,51.00,Very Light
+2749,102,51.00,Very Light
+2750,103,51.50,Very Light
+2751,103,51.50,Very Light
+2752,103,51.50,Very Light
+2753,103,51.50,Very Light
+2754,104,52.00,Very Light
+2755,105,52.50,Very Light
+2756,105,52.50,Very Light
+2757,104,52.00,Very Light
+2758,104,52.00,Very Light
+2759,102,51.00,Very Light
+2760,101,50.50,Very Light
+2761,101,50.50,Very Light
+2762,103,51.50,Very Light
+2763,103,51.50,Very Light
+2764,105,52.50,Very Light
+2765,107,53.50,Very Light
+2766,110,55.00,Very Light
+2767,112,56.00,Very Light
+2768,117,58.50,Very Light
+2769,119,59.50,Very Light
+2770,121,60.50,Light
+2771,122,61.00,Light
+2772,122,61.00,Light
+2773,121,60.50,Light
+2774,120,60.00,Light
+2775,120,60.00,Light
+2776,119,59.50,Very Light
+2777,117,58.50,Very Light
+2778,117,58.50,Very Light
+2779,117,58.50,Very Light
+2780,118,59.00,Very Light
+2781,119,59.50,Very Light
+2782,119,59.50,Very Light
+2783,120,60.00,Light
+2784,120,60.00,Light
+2785,120,60.00,Light
+2786,120,60.00,Light
+2787,120,60.00,Light
+2788,120,60.00,Light
+2789,121,60.50,Light
+2790,121,60.50,Light
+2791,122,61.00,Light
+2792,122,61.00,Light
+2793,122,61.00,Light
+2794,123,61.50,Light
+2795,122,61.00,Light
+2796,121,60.50,Light
+2797,121,60.50,Light
+2798,120,60.00,Light
+2799,120,60.00,Light
+2800,120,60.00,Light
+2801,120,60.00,Light
+2802,120,60.00,Light
+2803,120,60.00,Light
+2804,119,59.50,Very Light
+2805,119,59.50,Very Light
+2806,117,58.50,Very Light
+2807,116,58.00,Very Light
+2808,114,57.00,Very Light
+2809,112,56.00,Very Light
+2810,112,56.00,Very Light
+2811,112,56.00,Very Light
+2812,112,56.00,Very Light
+2813,113,56.50,Very Light
+2814,114,57.00,Very Light
+2815,115,57.50,Very Light
+2816,116,58.00,Very Light
+2817,117,58.50,Very Light
+2818,118,59.00,Very Light
+2819,118,59.00,Very Light
+2820,116,58.00,Very Light
+2821,113,56.50,Very Light
+2822,111,55.50,Very Light
+2823,111,55.50,Very Light
+2824,108,54.00,Very Light
+2825,106,53.00,Very Light
+2826,105,52.50,Very Light
+2827,105,52.50,Very Light
+2828,107,53.50,Very Light
+2829,110,55.00,Very Light
+2830,112,56.00,Very Light
+2831,114,57.00,Very Light
+2832,115,57.50,Very Light
+2833,116,58.00,Very Light
+2834,116,58.00,Very Light
+2835,116,58.00,Very Light
+2836,115,57.50,Very Light
+2837,113,56.50,Very Light
+2838,113,56.50,Very Light
+2839,113,56.50,Very Light
+2840,113,56.50,Very Light
+2841,113,56.50,Very Light
+2842,113,56.50,Very Light
+2843,113,56.50,Very Light
+2844,113,56.50,Very Light
+2845,112,56.00,Very Light
+2846,111,55.50,Very Light
+2847,111,55.50,Very Light
+2848,111,55.50,Very Light
+2849,110,55.00,Very Light
+2850,110,55.00,Very Light
+2851,111,55.50,Very Light
+2852,112,56.00,Very Light
+2853,113,56.50,Very Light
+2854,113,56.50,Very Light
+2855,114,57.00,Very Light
+2856,114,57.00,Very Light
+2857,114,57.00,Very Light
+2858,114,57.00,Very Light
+2859,114,57.00,Very Light
+2860,114,57.00,Very Light
+2861,114,57.00,Very Light
+2862,114,57.00,Very Light
+2863,115,57.50,Very Light
+2864,115,57.50,Very Light
+2865,115,57.50,Very Light
+2866,115,57.50,Very Light
+2867,115,57.50,Very Light
+2868,115,57.50,Very Light
+2869,116,58.00,Very Light
+2870,116,58.00,Very Light
+2871,116,58.00,Very Light
+2872,115,57.50,Very Light
+2873,115,57.50,Very Light
+2874,113,56.50,Very Light
+2875,112,56.00,Very Light
+2876,110,55.00,Very Light
+2877,110,55.00,Very Light
+2878,111,55.50,Very Light
+2879,112,56.00,Very Light
+2880,113,56.50,Very Light
+2881,113,56.50,Very Light
+2882,113,56.50,Very Light
+2883,112,56.00,Very Light
+2884,111,55.50,Very Light
+2885,110,55.00,Very Light
+2886,109,54.50,Very Light
+2887,109,54.50,Very Light
+2888,109,54.50,Very Light
+2889,109,54.50,Very Light
+2890,109,54.50,Very Light
+2891,109,54.50,Very Light
+2892,109,54.50,Very Light
+2893,109,54.50,Very Light
+2894,109,54.50,Very Light
+2895,109,54.50,Very Light
+2896,109,54.50,Very Light
+2897,109,54.50,Very Light
+2898,109,54.50,Very Light
+2899,110,55.00,Very Light
+2900,109,54.50,Very Light
+2901,108,54.00,Very Light
+2902,108,54.00,Very Light
+2903,108,54.00,Very Light
+2904,109,54.50,Very Light
+2905,110,55.00,Very Light
+2906,110,55.00,Very Light
+2907,112,56.00,Very Light
+2908,114,57.00,Very Light
+2909,115,57.50,Very Light
+2910,115,57.50,Very Light
+2911,115,57.50,Very Light
+2912,111,55.50,Very Light
+2913,109,54.50,Very Light
+2914,109,54.50,Very Light
+2915,109,54.50,Very Light
+2916,111,55.50,Very Light
+2917,113,56.50,Very Light
+2918,113,56.50,Very Light
+2919,113,56.50,Very Light
+2920,115,57.50,Very Light
+2921,115,57.50,Very Light
+2922,114,57.00,Very Light
+2923,113,56.50,Very Light
+2924,110,55.00,Very Light
+2925,108,54.00,Very Light
+2926,108,54.00,Very Light
+2927,108,54.00,Very Light
+2928,110,55.00,Very Light
+2929,110,55.00,Very Light
+2930,110,55.00,Very Light
+2931,110,55.00,Very Light
+2932,110,55.00,Very Light
+2933,110,55.00,Very Light
+2934,109,54.50,Very Light
+2935,109,54.50,Very Light
+2936,109,54.50,Very Light
+2937,109,54.50,Very Light
+2938,110,55.00,Very Light
+2939,109,54.50,Very Light
+2940,109,54.50,Very Light
+2941,108,54.00,Very Light
+2942,107,53.50,Very Light
+2943,107,53.50,Very Light
+2944,107,53.50,Very Light
+2945,107,53.50,Very Light
+2946,108,54.00,Very Light
+2947,109,54.50,Very Light
+2948,110,55.00,Very Light
+2949,110,55.00,Very Light
+2950,110,55.00,Very Light
+2951,109,54.50,Very Light
+2952,108,54.00,Very Light
+2953,108,54.00,Very Light
+2954,109,54.50,Very Light
+2955,109,54.50,Very Light
+2956,109,54.50,Very Light
+2957,110,55.00,Very Light
+2958,110,55.00,Very Light
+2959,111,55.50,Very Light
+2960,113,56.50,Very Light
+2961,113,56.50,Very Light
+2962,113,56.50,Very Light
+2963,111,55.50,Very Light
+2964,107,53.50,Very Light
+2965,105,52.50,Very Light
+2966,101,50.50,Very Light
+2967,101,50.50,Very Light
+2968,100,50.00,Very Light
+2969,101,50.50,Very Light
+2970,102,51.00,Very Light
+2971,104,52.00,Very Light
+2972,106,53.00,Very Light
+2973,106,53.00,Very Light
+2974,107,53.50,Very Light
+2975,107,53.50,Very Light
+2976,109,54.50,Very Light
+2977,111,55.50,Very Light
+2978,113,56.50,Very Light
+2979,113,56.50,Very Light
+2980,115,57.50,Very Light
+2981,116,58.00,Very Light
+2982,118,59.00,Very Light
+2983,120,60.00,Light
+2984,123,61.50,Light
+2985,123,61.50,Light
+2986,122,61.00,Light
+2987,120,60.00,Light
+2988,118,59.00,Very Light
+2989,118,59.00,Very Light
+2990,116,58.00,Very Light
+2991,115,57.50,Very Light
+2992,115,57.50,Very Light
+2993,116,58.00,Very Light
+2994,116,58.00,Very Light
+2995,117,58.50,Very Light
+2996,120,60.00,Light
+2997,121,60.50,Light
+2998,123,61.50,Light
+2999,124,62.00,Light
+3000,125,62.50,Light
+3001,125,62.50,Light
+3002,125,62.50,Light
+3003,125,62.50,Light
+3004,124,62.00,Light
+3005,124,62.00,Light
+3006,124,62.00,Light
+3007,124,62.00,Light
+3008,125,62.50,Light
+3009,125,62.50,Light
+3010,124,62.00,Light
+3011,122,61.00,Light
+3012,122,61.00,Light
+3013,117,58.50,Very Light
+3014,115,57.50,Very Light
+3015,115,57.50,Very Light
+3016,115,57.50,Very Light
+3017,114,57.00,Very Light
+3018,113,56.50,Very Light
+3019,112,56.00,Very Light
+3020,107,53.50,Very Light
+3021,106,53.00,Very Light
+3022,102,51.00,Very Light
+3023,100,50.00,Very Light
+3024,97,48.50,Unknown
+3025,96,48.00,Unknown
+3026,96,48.00,Unknown
+3027,96,48.00,Unknown
+3028,97,48.50,Unknown
+3029,99,49.50,Unknown
+3030,99,49.50,Unknown
+3031,100,50.00,Very Light
+3032,99,49.50,Unknown
+3033,98,49.00,Unknown
+3034,97,48.50,Unknown
+3035,97,48.50,Unknown
+3036,98,49.00,Unknown
+3037,98,49.00,Unknown
+3038,99,49.50,Unknown
+3039,99,49.50,Unknown
+3040,100,50.00,Very Light
+3041,102,51.00,Very Light
+3042,103,51.50,Very Light
+3043,104,52.00,Very Light
+3044,109,54.50,Very Light
+3045,111,55.50,Very Light
+3046,113,56.50,Very Light
+3047,114,57.00,Very Light
+3048,114,57.00,Very Light
+3049,114,57.00,Very Light
+3050,114,57.00,Very Light
+3051,114,57.00,Very Light
+3052,114,57.00,Very Light
+3053,114,57.00,Very Light
+3054,113,56.50,Very Light
+3055,112,56.00,Very Light
+3056,111,55.50,Very Light
+3057,110,55.00,Very Light
+3058,110,55.00,Very Light
+3059,110,55.00,Very Light
+3060,110,55.00,Very Light
+3061,108,54.00,Very Light
+3062,107,53.50,Very Light
+3063,107,53.50,Very Light
+3064,106,53.00,Very Light
+3065,104,52.00,Very Light
+3066,104,52.00,Very Light
+3067,104,52.00,Very Light
+3068,107,53.50,Very Light
+3069,109,54.50,Very Light
+3070,109,54.50,Very Light
+3071,109,54.50,Very Light
+3072,107,53.50,Very Light
+3073,105,52.50,Very Light
+3074,104,52.00,Very Light
+3075,104,52.00,Very Light
+3076,103,51.50,Very Light
+3077,103,51.50,Very Light
+3078,104,52.00,Very Light
+3079,104,52.00,Very Light
+3080,105,52.50,Very Light
+3081,105,52.50,Very Light
+3082,105,52.50,Very Light
+3083,103,51.50,Very Light
+3084,103,51.50,Very Light
+3085,103,51.50,Very Light
+3086,105,52.50,Very Light
+3087,105,52.50,Very Light
+3088,106,53.00,Very Light
+3089,107,53.50,Very Light
+3090,108,54.00,Very Light
+3091,108,54.00,Very Light
+3092,104,52.00,Very Light
+3093,103,51.50,Very Light
+3094,103,51.50,Very Light
