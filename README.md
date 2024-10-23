@@ -7,14 +7,14 @@ Then you must change the syntax:
 
 From: 
 
-self.df = pd.read_csv('C:/Users/<username>/heart_rate/05Oct2023at0523pm.csv')
+self.df = pd.read_csv('C:/Users/your_username/heart_rate/data.csv')
 
 To:
 
-self.df = pd.read_csv('05Oct2023at0523pm.csv')
+self.df = pd.read_csv('data.csv')
 
 Or vice versa.
 
-Or you can customize where your “05Oct2023at0523pm.csv” file directory is located.
+Or you can customize where your “data.csv” file directory is located.
 
 Thank you.
